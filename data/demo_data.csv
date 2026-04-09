@@ -1,0 +1,17 @@
+qid,query,docid,doc_text,rel
+1,cell tower,D1,Cell tower distance can be checked using signal strength apps,3
+1,cell tower,D2,Mobile signal strength depends on distance from the nearest tower,2
+1,cell tower,D3,The internet is a global network connecting millions of computers,0
+1,cell tower,D4,Computers process data using hardware and software components,0
+2,machine learning,D5,Machine learning is a subset of artificial intelligence that learns from data,3
+2,machine learning,D6,Artificial intelligence includes systems that mimic human intelligence,2
+2,machine learning,D7,Healthy food includes fruits vegetables and balanced nutrition,0
+2,machine learning,D8,Money is a medium of exchange used to buy goods and services,0
+3,birds raised,D9,Birds are raised in a place called an aviary,3
+3,birds raised,D10,Schools are institutions where students receive education,0
+3,birds raised,D11,Water boils at 100 degrees Celsius under normal conditions,0
+3,birds raised,D12,Some birds are kept in aviaries for breeding and care,2
+4,internet,D13,The internet is a global network connecting millions of computers,3
+4,internet,D14,Computers communicate over networks using protocols,2
+4,internet,D15,Cell tower distance can be checked using signal strength apps,0
+4,internet,D16,Healthy food includes fruits vegetables and balanced nutrition,0
