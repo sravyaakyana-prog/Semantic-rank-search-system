@@ -20,6 +20,10 @@ This project demonstrates a **real-world Information Retrieval (IR) pipeline**:
 
 It is designed as a **production-style ML system demo**.
 
+For this project, a **demo dataset (`demo_data.csv`)** was used to simulate query-document relevance pairs. This allowed faster experimentation and clear demonstration of the retrieval and ranking pipeline.
+
+The system is designed to scale and can be extended to real-world datasets like **MS MARCO**, which are larger and require additional preprocessing.
+
 ---
 
 ## 🚀 Features
@@ -107,6 +111,10 @@ SemanticRank-Search-System/
 ├── requirements.txt
 ├── README.md
 │
+├── assets/
+│   ├── screenshot1.png
+│   ├── screenshot2.png
+│
 ├── src/
 │   ├── __init__.py
 │   ├── data_loader.py
@@ -119,6 +127,39 @@ SemanticRank-Search-System/
 ├── data/
 │   ├── demo_data.csv
 ```
+
+---
+
+## 🗂️ Dataset Used
+
+The system uses **`demo_data.csv`**, a structured demo dataset containing:
+
+* `qid` → query id
+* `query` → user query
+* `docid` → document id
+* `doc_text` → document text
+* `rel` → relevance score
+
+This dataset was created to simulate **query-document relevance pairs**, which are commonly used in search ranking systems.
+
+### Why demo dataset?
+
+* Simplifies development and debugging
+* Allows faster experimentation
+* Makes the project easy to demonstrate
+
+### Why not MS MARCO directly?
+
+MS MARCO is a large-scale dataset used in real-world search systems. It stores queries, documents, and relevance labels separately and requires additional preprocessing and computational resources.
+
+For this project, a demo dataset was used to focus on:
+
+* semantic retrieval
+* ranking logic
+* evaluation (NDCG)
+* answer extraction
+
+The same architecture can be extended to **MS MARCO or other large datasets** in future work.
 
 ---
 
@@ -229,5 +270,3 @@ Comparison:
 Machine Learning Enthusiast 🚀
 
 ---
-
-
