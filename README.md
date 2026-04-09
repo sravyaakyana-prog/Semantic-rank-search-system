@@ -224,11 +224,11 @@ python -m streamlit run app.py
 
 ### 🔹 Main UI
 
-![Main UI](assets/screenshot1.png)
+![Main UI](assets/Screenshot1.png)
 
 ### 🔹 Results & Evaluation
 
-![Results](assets/screenshot2.png)
+![Results](assets/Screenshot2.png)
 
 ---
 
