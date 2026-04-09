@@ -1,17 +1,1001 @@
 qid,query,docid,doc_text,rel
-1,cell tower,D1,Cell tower distance can be checked using signal strength apps,3
-1,cell tower,D2,Mobile signal strength depends on distance from the nearest tower,2
-1,cell tower,D3,The internet is a global network connecting millions of computers,0
-1,cell tower,D4,Computers process data using hardware and software components,0
-2,machine learning,D5,Machine learning is a subset of artificial intelligence that learns from data,3
-2,machine learning,D6,Artificial intelligence includes systems that mimic human intelligence,2
-2,machine learning,D7,Healthy food includes fruits vegetables and balanced nutrition,0
-2,machine learning,D8,Money is a medium of exchange used to buy goods and services,0
-3,birds raised,D9,Birds are raised in a place called an aviary,3
-3,birds raised,D10,Schools are institutions where students receive education,0
-3,birds raised,D11,Water boils at 100 degrees Celsius under normal conditions,0
-3,birds raised,D12,Some birds are kept in aviaries for breeding and care,2
-4,internet,D13,The internet is a global network connecting millions of computers,3
-4,internet,D14,Computers communicate over networks using protocols,2
-4,internet,D15,Cell tower distance can be checked using signal strength apps,0
-4,internet,D16,Healthy food includes fruits vegetables and balanced nutrition,0
+0,artificial intelligence,D0,Policy Mrs particularly suggest answer quickly continue operation.,2
+1,machine learning,D1,Open dinner entire million exactly group southern dark teach next eat local would leader.,1
+2,mobile signal,D2,Project drop whole affect mission law raise TV follow really account.,3
+3,artificial intelligence,D3,Fire animal option door blood nothing street still its six time.,3
+4,data science,D4,Wrong per its present you three sing federal fly determine by.,1
+5,artificial intelligence,D5,White international decide south film huge after federal probably past view structure herself right white involve.,0
+6,mobile signal,D6,Than test spend as born heart treat structure.,1
+7,cloud computing,D7,Evidence different discussion thus themselves inside street.,2
+8,cloud computing,D8,Believe phone prepare skill relationship organization voice become give unit top must share lead blue.,2
+9,machine learning,D9,These all how feel guy direction drug before consumer long own home side training shoulder.,3
+10,artificial intelligence,D10,Poor citizen collection recent quickly me miss guess.,0
+11,cell tower,D11,Key could others budget meeting call young she suffer fall probably word.,0
+12,wifi connection,D12,Dream thing heart raise effort store five simple usually.,1
+13,artificial intelligence,D13,With TV foot since know risk old data.,3
+14,mobile signal,D14,Interview four everybody wait young couple history who garden themselves section pull north.,2
+15,birds raised,D15,Remember stand final pay south what environment almost age.,2
+16,cloud computing,D16,Local action knowledge activity girl future group court.,1
+17,wifi connection,D17,Weight whom sometimes financial provide human perform great law nor painting live eat seem political first.,2
+18,cloud computing,D18,Peace before land face morning career degree turn bit study PM above.,2
+19,machine learning,D19,Lead company everything certain remain need exist structure thousand.,1
+20,internet speed,D20,Born someone rise model cause situation yes fall also personal perform detail both.,0
+21,wifi connection,D21,Condition affect alone sort until lead wish grow throw though rest plan.,2
+22,network coverage,D22,Example manager become term out young perhaps effect shoulder.,1
+23,network coverage,D23,Suddenly instead character time somebody car responsibility or develop evidence time simply least expect despite kind.,2
+24,network coverage,D24,Better however understand democratic total hospital method what image modern enough citizen often.,2
+25,machine learning,D25,Bag better to morning allow wait paper yet pay like local region present.,2
+26,wifi connection,D26,Drive think major board performance appear Congress see team child fish resource skin if.,0
+27,data science,D27,Fast white laugh treat listen entire a pattern.,0
+28,internet speed,D28,Simply top deal go many enjoy scientist meet PM member benefit save live arrive walk very.,0
+29,internet speed,D29,Final development production away evening plan discover theory unit record whom art shake hit clearly.,1
+30,internet speed,D30,Life information season his adult position type.,3
+31,network coverage,D31,Wonder stock pass shoulder happy push room build long scene.,0
+32,birds raised,D32,Those only technology hospital food partner Mrs instead mission garden season require election interest manage rate.,1
+33,artificial intelligence,D33,Anyone hand society local project part school drop.,1
+34,machine learning,D34,Owner man claim head behind plant lay race recent say.,1
+35,cell tower,D35,Small wear common technology hot son official ground field.,0
+36,cloud computing,D36,Four remember in suffer able view Democrat son discover may reality clearly finish push million third.,3
+37,data science,D37,Decade measure stay officer stuff culture act expect large cover late.,2
+38,machine learning,D38,Notice pattern week but board either court man growth rather hit.,2
+39,cell tower,D39,Position method nothing green certainly reality simple gas employee between later keep.,2
+40,data science,D40,Unit later a entire generation light practice pull room memory very current think quite agent.,2
+41,cell tower,D41,Probably risk know gun customer happen stop operation food class.,3
+42,mobile signal,D42,Participant act seem whether current Congress between what.,3
+43,network coverage,D43,Computer allow good may field newspaper board son.,1
+44,wifi connection,D44,Particularly identify couple accept PM hour you necessary soldier without team family girl sell.,2
+45,network coverage,D45,Structure member music she interview force camera onto responsibility first star four which agent citizen tell.,0
+46,artificial intelligence,D46,Like against allow push his same always.,3
+47,wifi connection,D47,General tree pattern skin prepare it interesting experience.,0
+48,cloud computing,D48,Between finally customer produce member remember cultural apply near quite might effect.,2
+49,network coverage,D49,Full send hope important total consumer customer war fact class sing become team.,1
+50,network coverage,D50,Cause quite collection specific through company relationship we later away six respond reach young.,2
+51,birds raised,D51,Process product real up plant teach talk plan.,2
+52,cell tower,D52,Team environmental goal art measure compare month walk feel account hour especially one ask.,1
+53,cell tower,D53,Since thought series official series one girl class course.,1
+54,mobile signal,D54,During law thank body even evidence hard although project.,0
+55,cell tower,D55,Product know operation oil chance read according seven case beyond few chair I your activity.,2
+56,machine learning,D56,Thing member crime pay heart camera pay student listen animal themselves community care ball remember that.,0
+57,cell tower,D57,Down baby doctor shake direction development show box group you world service never kind condition.,1
+58,birds raised,D58,Rest see here upon special trial easy standard itself world watch threat all skin pass agreement.,3
+59,birds raised,D59,Develop central billion high like education stop become movie.,1
+60,wifi connection,D60,Above tree present my remember move laugh election support.,1
+61,machine learning,D61,Book avoid society field language page environmental including but at security.,1
+62,cloud computing,D62,Month child since third how field field.,3
+63,wifi connection,D63,Quite matter show me star eight set green most board.,2
+64,data science,D64,Care forget type address skill black name city card hit party table.,3
+65,cell tower,D65,Sit dog present present scene when cell drive significant space memory population actually consider.,2
+66,cloud computing,D66,Second money national part international suggest serve form myself teach enough fund just three perhaps.,2
+67,machine learning,D67,Bag relationship see mean party mean occur team manage.,2
+68,network coverage,D68,Institution until they girl rest good democratic rest job only wind.,2
+69,wifi connection,D69,Herself rather rule in develop thus company me father little.,0
+70,cell tower,D70,Near another husband which resource add special already thus glass summer energy American so writer.,2
+71,birds raised,D71,College apply pull region book outside sure expect day return more reveal.,1
+72,mobile signal,D72,Miss order say at memory use itself tree executive war modern mind heart security surface.,2
+73,network coverage,D73,Thousand eat something concern them four moment thousand yet experience health sport shoulder particular buy.,0
+74,network coverage,D74,Fact catch either town teacher benefit rule artist.,2
+75,network coverage,D75,Bar past nearly evidence model father where look within culture.,1
+76,cell tower,D76,Boy occur happen age own west opportunity president pattern answer picture consumer must leg stay certainly.,1
+77,birds raised,D77,Effort model any arm worker size somebody quite can wait.,3
+78,internet speed,D78,Team game relationship news kind tend quickly contain inside back statement another through.,2
+79,mobile signal,D79,Control father mission stop night arm tough ability because six probably send everything event age purpose.,3
+80,artificial intelligence,D80,Newspaper once mention bad lawyer piece road mention animal.,3
+81,wifi connection,D81,Election professor better administration simple woman structure personal.,3
+82,internet speed,D82,Western ok civil image worry leg chair.,0
+83,wifi connection,D83,Player final TV job ask evening admit claim.,2
+84,cell tower,D84,Pass already think character particular either recently all that live him language act without into.,3
+85,cloud computing,D85,Structure particular movement close anyone apply for each fall describe.,1
+86,cloud computing,D86,Alone body maybe face beyond worry bill cup may mind major color store coach responsibility.,1
+87,artificial intelligence,D87,Drive stand some research low study prevent everybody approach suffer wide common police sell.,2
+88,internet speed,D88,Sit those week get them safe society case crime art political.,2
+89,birds raised,D89,Rest I end various hear successful thing fly cup.,3
+90,machine learning,D90,Green if reach nearly thought growth bring deal history same possible under data.,2
+91,machine learning,D91,Clearly explain candidate sound toward shoulder sound bring describe drug understand treat environment war.,3
+92,mobile signal,D92,Suddenly especially per address memory up evidence suddenly piece writer side.,3
+93,wifi connection,D93,A foreign chair reduce herself doctor away power lawyer at cause.,0
+94,data science,D94,Including two hour discuss example reflect issue enter this stuff.,1
+95,mobile signal,D95,Onto result author a key successful prevent property off sing exist because pick.,3
+96,wifi connection,D96,Foreign memory happen high doctor rest forward author he police commercial win wrong less.,1
+97,cell tower,D97,Purpose clear receive kitchen tree administration central somebody culture born adult after memory church action.,2
+98,machine learning,D98,Least be forward accept professor development blood less quality play so onto future article lead.,1
+99,birds raised,D99,Allow detail few much safe push bring effect mind through others fill.,0
+100,cell tower,D100,Power kid successful I contain because as newspaper recognize.,0
+101,birds raised,D101,Response gun skill bar bit stock property edge life decade important.,0
+102,wifi connection,D102,Site fine major live instead scene spend response Congress group blue fight.,1
+103,network coverage,D103,Art live task other staff most win argue onto ground line sign report write.,1
+104,data science,D104,Born car reason space look physical painting see fly eight than election.,2
+105,artificial intelligence,D105,Section front as tree certain standard worry they interview again say memory strong any two.,3
+106,internet speed,D106,If any talk election along air religious try management let perhaps check past necessary picture.,1
+107,data science,D107,System civil prove positive health back water science power plan next I piece.,2
+108,internet speed,D108,Eight common want economic third some list.,2
+109,machine learning,D109,Response bit whether cut bill continue much whose.,3
+110,wifi connection,D110,Particular appear officer space white decide identify let see push agent.,1
+111,artificial intelligence,D111,Various truth yeah open federal bill boy wish point treat pay class seem consumer.,3
+112,wifi connection,D112,Someone under morning treatment similar yeah week commercial represent.,2
+113,wifi connection,D113,Create system nearly myself sister rock almost.,0
+114,cloud computing,D114,Manager black watch surface box international who unit age car interesting speak keep try difference television.,3
+115,artificial intelligence,D115,Detail significant rich eye identify hundred game full close form choose positive leader several note lose.,0
+116,mobile signal,D116,Lead ahead no add focus laugh just example source technology.,2
+117,data science,D117,Away themselves tonight news bring player age marriage care main seven standard million each to church.,0
+118,mobile signal,D118,Hair thousand smile culture degree outside movie firm this recognize.,1
+119,internet speed,D119,Investment behavior center should travel policy find every painting market deep open road cost car.,1
+120,machine learning,D120,Get military woman senior understand once administration.,1
+121,cloud computing,D121,Week artist physical take until allow deal follow our consider green.,2
+122,data science,D122,Easy year find news wear fine within save record area indicate.,3
+123,cloud computing,D123,Cost student protect act put race reflect company plan ago ready trial marriage.,2
+124,wifi connection,D124,Whatever treatment whom again environmental son team.,0
+125,cloud computing,D125,Clearly floor watch bed light wear evening trip blue follow hot according ago central.,3
+126,cloud computing,D126,Say whom hospital window down of some heavy this true camera common page employee into.,3
+127,internet speed,D127,College suddenly entire current our single attack good born.,1
+128,wifi connection,D128,Across six anyone pretty its impact exist before worker guy some indicate home there.,2
+129,birds raised,D129,Concern political father total seat seek company institution understand lead hundred participant fall time.,2
+130,network coverage,D130,Run think office leader project large apply area dinner truth area describe bill term.,1
+131,artificial intelligence,D131,Man soon husband drop author evening building among decade other exactly huge.,0
+132,cloud computing,D132,Dream general job away poor system break me parent to.,3
+133,mobile signal,D133,Report indeed my body read quite then resource most state citizen national defense strong risk.,1
+134,cloud computing,D134,Region throughout expect yes director lot from reveal surface better why professor already.,1
+135,birds raised,D135,Pass economic offer stop home also western measure offer particular yeah back.,3
+136,cloud computing,D136,Agency future road majority prepare office school change visit among player training worry management leader parent.,0
+137,network coverage,D137,Almost approach most party set summer ready save begin TV film customer something strategy pretty.,2
+138,cloud computing,D138,Toward performance member in visit cause do car add according.,0
+139,wifi connection,D139,Per work all cost according evening successful very ten ask class.,0
+140,data science,D140,Civil information four a suddenly society respond nearly choice out quickly attention clearly try.,3
+141,cloud computing,D141,Face sign direction training put environment peace thousand child up chance sort senior more.,1
+142,internet speed,D142,Pressure this newspaper his remember alone design operation identify century bed student develop force result.,1
+143,network coverage,D143,Daughter trip order save within create gun check especially wear head individual affect.,1
+144,artificial intelligence,D144,Culture too reach game name woman help dream fly nor catch ten I general arm.,3
+145,machine learning,D145,South skin four pressure management news whole glass stop key I east nature ever year.,3
+146,data science,D146,Wide lead often story talk give involve thing five address ready.,1
+147,birds raised,D147,Trade catch trade create such year dinner else white similar rest every develop.,3
+148,machine learning,D148,Brother program miss phone product me wall your may discussion yard raise model.,0
+149,machine learning,D149,Sister sit total travel edge draw sea term think top such occur leader our design list.,3
+150,artificial intelligence,D150,Pick compare political rise house carry American less.,2
+151,artificial intelligence,D151,Treatment girl control involve member most part meeting reduce bring purpose paper.,1
+152,cell tower,D152,Add evening win option usually company minute course whom finish world test next seven.,2
+153,cloud computing,D153,Treat baby group simple future general reduce wide control race light up charge approach onto other.,2
+154,wifi connection,D154,Product clearly billion activity evidence local brother meet.,2
+155,data science,D155,Young remember cut small get society keep his happen same feeling sign century thousand person.,3
+156,network coverage,D156,Health floor size usually information realize among guess forward effect necessary century daughter either.,0
+157,data science,D157,Detail all guy job then worry age situation.,3
+158,wifi connection,D158,Question with forget pretty happen month senior worker hair.,2
+159,internet speed,D159,Everything yourself north pressure image prepare local although catch develop save.,3
+160,internet speed,D160,Likely information cold window offer particular investment feel support air enough which suddenly agent kind.,2
+161,data science,D161,Training director customer economy each benefit everything response appear simple probably effect gun only son.,1
+162,data science,D162,Crime near western ability plant later cause police ball able represent program good deep.,1
+163,cell tower,D163,Member road sound thus party rock eight various and program know staff.,2
+164,mobile signal,D164,Who somebody just strategy upon consider far person mention relationship building worry.,1
+165,cloud computing,D165,Order leave people happen and whether business all young city morning place amount husband.,2
+166,cloud computing,D166,Government easy sea director almost statement technology father final return in bank.,3
+167,machine learning,D167,Win per skin thing indicate think add.,2
+168,wifi connection,D168,Citizen billion mouth value system even example food quality.,1
+169,network coverage,D169,Lay prevent clearly there hit great cold tree skin where computer sister seem give.,0
+170,data science,D170,Wear base picture after sea consider upon through.,0
+171,network coverage,D171,Nice activity region issue visit listen media nothing official.,3
+172,wifi connection,D172,Republican see indicate more low force generation movie cause exist include particular again as lead.,2
+173,birds raised,D173,Friend government probably police benefit head each step really per direction not.,3
+174,data science,D174,Interest policy probably key national fast another impact become successful already girl.,3
+175,internet speed,D175,South live positive something themselves structure type nation.,0
+176,birds raised,D176,Agreement operation window court suddenly organization bank continue.,0
+177,machine learning,D177,Back name building pass move suffer discussion father have employee break five daughter little clear.,2
+178,cell tower,D178,Class might beat value degree church knowledge service environment.,3
+179,cell tower,D179,Wonder spend four standard picture state require describe walk product determine almost help like reason.,3
+180,internet speed,D180,Event pick information attention amount rule next stay believe you include throw huge you price.,3
+181,cell tower,D181,Major person among condition every security sell increase involve above.,2
+182,birds raised,D182,Sure fill help by stop recently technology money.,2
+183,internet speed,D183,Town second smile run quality memory protect board kitchen tax not focus.,0
+184,wifi connection,D184,Pattern short far positive rate race star those southern news response side popular money.,0
+185,data science,D185,Business view note phone method sound man woman purpose building same deep along language away.,3
+186,cell tower,D186,Imagine rock oil shake short there thank perform best become grow.,2
+187,cell tower,D187,Experience change unit argue case tree less total news after.,2
+188,artificial intelligence,D188,Congress start difficult street generation so keep assume wear more local determine professor sea.,2
+189,machine learning,D189,Give little beautiful benefit health key easy group.,1
+190,wifi connection,D190,Simple successful talk table heavy only hundred organization write deep.,0
+191,birds raised,D191,Actually image sometimes friend property adult carry current.,1
+192,network coverage,D192,Conference other property chance someone we scene put American one next.,3
+193,wifi connection,D193,Anyone international outside significant training market learn suffer forget important enough activity either.,2
+194,internet speed,D194,Remember policy car old article structure whole kitchen.,2
+195,network coverage,D195,Standard road stand guy old provide since.,0
+196,cloud computing,D196,Air land certain wind strong popular young when customer.,1
+197,birds raised,D197,Degree put risk either movie low past material.,0
+198,wifi connection,D198,Throughout understand we other middle bed lead push.,0
+199,birds raised,D199,Firm forget add current art road control resource husband sing paper field house class keep.,1
+200,machine learning,D200,On citizen response speech couple rather special big child million teach wide bad his sing.,3
+201,artificial intelligence,D201,Baby require suffer fly area executive series professional leave physical risk wide class.,1
+202,birds raised,D202,Good reduce door hair despite compare glass statement throw every table either.,0
+203,network coverage,D203,Like sense final degree citizen interview consider source recognize.,2
+204,data science,D204,Owner so nor company in central face thought series movement wonder now feel.,1
+205,cell tower,D205,Understand hotel continue answer arm analysis myself and believe could you.,0
+206,birds raised,D206,Tell direction far reach city soon far feel across television talk compare today book.,2
+207,internet speed,D207,Year dream foreign answer style collection view consider sort south simple class scientist she sit.,0
+208,network coverage,D208,Score issue themselves approach adult clear special.,3
+209,cloud computing,D209,Two per probably power discover certain yard someone their more police.,3
+210,wifi connection,D210,Fact share there foot nor mother goal already white yourself issue challenge.,3
+211,internet speed,D211,Pull skin product serious seek big huge girl surface long behavior which finish agree.,1
+212,birds raised,D212,New lose red guy church huge car entire meet shake rise structure happy leader traditional.,0
+213,network coverage,D213,Agent art would rate sea difference career since general fight.,0
+214,birds raised,D214,Three education focus purpose eat economic thus husband tax of.,3
+215,birds raised,D215,Difficult seven week certainly far financial answer right box already everyone treatment though manager.,0
+216,birds raised,D216,Require certain last everything focus stay himself trade tell use still push somebody bring.,3
+217,machine learning,D217,Clear choice effect home always defense write tend former design.,2
+218,internet speed,D218,Near much firm trouble upon worker job change trade ready early mention leg.,0
+219,wifi connection,D219,Watch point series contain a community value myself.,2
+220,cloud computing,D220,Always seat or pick week treat difficult close open increase matter newspaper change growth remain.,2
+221,cell tower,D221,Nearly each when level room benefit those energy environmental growth development field from.,0
+222,internet speed,D222,Life practice on huge paper hard model particular blood song discussion course body think brother quickly.,2
+223,machine learning,D223,Fight free safe pretty may trip care majority election majority respond role kitchen fact carry baby.,1
+224,cloud computing,D224,Fear support reflect have radio human worker stuff.,0
+225,data science,D225,Of market risk appear enter culture she return.,3
+226,wifi connection,D226,Way front continue success think both cost carry again head.,0
+227,internet speed,D227,A such training instead matter peace any threat long during answer town page stage.,3
+228,cell tower,D228,Newspaper manager kitchen baby down may seem notice trial organization shake fear way white baby identify.,3
+229,network coverage,D229,Particularly interesting full government group word significant remain lose center energy.,2
+230,cell tower,D230,Specific believe action vote little few north these available role learn.,3
+231,artificial intelligence,D231,Reveal peace raise key simple pass trouble open design sit television star.,1
+232,data science,D232,Recently throw meet prevent boy today join maintain gun set hard treatment.,2
+233,data science,D233,Any despite issue small prepare hard because education nothing bag.,0
+234,internet speed,D234,Local picture per data wear ball least growth.,3
+235,network coverage,D235,Body laugh growth throughout unit let anyone hand ok.,1
+236,mobile signal,D236,Among teacher alone purpose drop season for claim responsibility true sure discover within seat.,0
+237,internet speed,D237,Push right shoulder loss medical research remember newspaper you quality machine.,1
+238,internet speed,D238,Focus skin remain ready staff policy number.,1
+239,cloud computing,D239,Land agreement system with type produce task ever only pull sing close ask turn training.,1
+240,network coverage,D240,Work find sort impact head account save.,3
+241,mobile signal,D241,Coach put beat bed produce partner practice around administration investment record get several.,0
+242,mobile signal,D242,Million democratic because gun former smile art animal task person finish audience keep community office piece.,3
+243,wifi connection,D243,Game five ahead fine change base computer win firm top say visit himself product bad.,0
+244,internet speed,D244,Involve structure example actually instead him author stop street very.,2
+245,network coverage,D245,Second position war one down same society alone bad stage same key real go cost.,3
+246,data science,D246,Bar nation also else know other draw break trouble smile need.,2
+247,data science,D247,System similar enough view fund voice knowledge act down mention.,2
+248,wifi connection,D248,Buy quickly certainly win because conference teacher ask possible result fast Congress.,3
+249,cell tower,D249,Save new near quite fire they star score benefit suddenly feeling trip wish show.,0
+250,network coverage,D250,For care two scientist soldier along thousand against nature seem ground vote car.,1
+251,artificial intelligence,D251,Guy between debate home key prevent nearly.,0
+252,mobile signal,D252,Form check certainly person as money especially politics end enjoy front.,1
+253,cell tower,D253,Across represent interview international four century almost order least news site threat.,1
+254,birds raised,D254,Require sing thank trial continue data all suffer reflect music back political down speech meet challenge.,0
+255,machine learning,D255,Artist draw go believe place man next month coach letter expert receive special win vote.,3
+256,data science,D256,Know fill great center hope keep tough young control then his.,0
+257,cloud computing,D257,Quality training face matter though throw official live campaign.,0
+258,machine learning,D258,Relationship carry memory near customer doctor student plan rule again take board.,1
+259,internet speed,D259,Dinner become low per art fill somebody wonder herself available any degree leave page game.,0
+260,internet speed,D260,Order indicate cell goal response week resource prove try picture.,1
+261,wifi connection,D261,Beautiful hear two how single building change interest.,1
+262,data science,D262,And end situation college manage pretty prevent Democrat garden boy subject.,1
+263,network coverage,D263,Herself international him sport issue account similar receive eye watch though.,1
+264,cell tower,D264,Machine election stuff rich paper inside leader parent mother movement structure.,0
+265,birds raised,D265,Then you most sport writer main home improve control age study.,3
+266,machine learning,D266,Protect plan significant find if whole themselves.,0
+267,cloud computing,D267,Candidate situation really card where ability ten enjoy record military interest enter other school evening early.,2
+268,cell tower,D268,Wish hit American staff friend reason add deep stage since.,3
+269,cloud computing,D269,Congress particularly close mother understand stuff serious early worry will effect.,3
+270,machine learning,D270,Finish TV good act me couple while risk tend find central.,1
+271,artificial intelligence,D271,Or laugh last would leave so national total season hospital whatever home none just painting ground.,1
+272,wifi connection,D272,None wish miss early drop brother especially soldier store.,3
+273,birds raised,D273,Firm natural figure black church firm wife couple guess according option trade pattern.,3
+274,network coverage,D274,Discussion character kid price week adult want deal.,3
+275,cell tower,D275,Economic on take attack party player common major.,3
+276,birds raised,D276,Hear little expect better religious space half remember set president full per.,1
+277,wifi connection,D277,Either along simple parent coach get soldier area interest hotel.,1
+278,mobile signal,D278,Organization character nature news hard training toward ever brother check business summer red.,2
+279,cloud computing,D279,Technology step industry environment address great project available stock each speech.,2
+280,wifi connection,D280,Amount activity political watch lawyer measure computer human happen again past old former.,3
+281,machine learning,D281,Like old leader play us opportunity five budget age else charge cut.,1
+282,data science,D282,Government meeting father value dinner he former prevent interesting foreign race point development article lay Republican.,0
+283,network coverage,D283,Store page key activity heart PM popular world base.,0
+284,artificial intelligence,D284,Radio behavior choice eight role difference finally.,3
+285,wifi connection,D285,Begin much reflect leader either out election Mrs economy act none.,2
+286,cloud computing,D286,Attention which follow contain civil central beyond itself dark affect deep writer still sometimes short after.,3
+287,cell tower,D287,Picture environment couple investment become adult agent even finish.,3
+288,data science,D288,Fish take your Republican hard picture toward grow soon month toward explain owner.,3
+289,birds raised,D289,Time sing none leader discover per often forward.,2
+290,internet speed,D290,Draw prevent far leader hit impact cost dinner hotel finish yourself challenge indicate remember position.,3
+291,cloud computing,D291,Man accept indicate report throw senior popular believe respond technology somebody issue physical eight six.,3
+292,network coverage,D292,Might senior treat authority usually behind certain can out.,0
+293,cell tower,D293,Area magazine live quickly how blood standard federal list big spend admit exactly local sell.,1
+294,mobile signal,D294,Bed get TV bring ready business certainly trouble he store us.,2
+295,wifi connection,D295,Role different major although plant social which.,3
+296,cell tower,D296,Campaign meeting with develop present likely stand light.,2
+297,cloud computing,D297,Scientist tree evening huge send Republican study employee unit writer building they.,3
+298,machine learning,D298,Church system collection work now exist matter pattern quite idea difference whole turn what loss.,1
+299,birds raised,D299,Whom process view fund pay capital after over another argue.,1
+300,data science,D300,Tree movie various behind make land focus give moment one new.,2
+301,mobile signal,D301,Dog believe professor finally crime least base technology minute consumer affect.,1
+302,artificial intelligence,D302,Financial per music central international Mr bit red middle such former audience question color interest.,0
+303,network coverage,D303,Fact become once hotel culture cut throw animal more ago yet concern.,1
+304,mobile signal,D304,List because TV already owner stand tend although catch unit.,3
+305,cloud computing,D305,Firm true bank bag small black already.,1
+306,machine learning,D306,Plan half yeah little everyone support sure yeah garden protect most population threat form seek hospital.,3
+307,internet speed,D307,Stand marriage beyond trip truth pretty of draw night surface we central particularly.,3
+308,data science,D308,Hand board tax night item those Mr stuff beautiful race writer scientist skill common.,0
+309,cloud computing,D309,Bring factor leg good affect force the most nearly big I attack.,2
+310,artificial intelligence,D310,Task thank must usually order best hospital evening enter thing most population green only reflect.,3
+311,cell tower,D311,Low my next drive end culture fish gun important thought already he knowledge.,0
+312,artificial intelligence,D312,Drive evening nation almost star box structure design ok by.,2
+313,network coverage,D313,Often cause without nature hotel agent long.,0
+314,internet speed,D314,Home add offer stock carry college most way language.,2
+315,wifi connection,D315,Attorney gun he section Republican human will.,3
+316,network coverage,D316,Unit evidence health book rule smile well table environmental money usually evening else finish green true.,0
+317,cloud computing,D317,She bring training glass page law focus rise agency music across here thing since low authority.,2
+318,network coverage,D318,Home professor on civil election same stock respond think.,1
+319,birds raised,D319,Less man see news friend eye rather.,2
+320,cell tower,D320,Raise scene place knowledge analysis safe hand tax that yes play year day certain.,2
+321,cloud computing,D321,Well employee economy send attention forward audience term drug.,0
+322,artificial intelligence,D322,Forget difficult loss bit almost discover unit dark despite there guy read card.,1
+323,mobile signal,D323,Family son present itself different crime particular fine a spend gas like American skill few.,0
+324,network coverage,D324,Discussion challenge garden thus attention box surface.,2
+325,internet speed,D325,Until be prevent speak list recent toward individual fish especially future front finally wrong.,2
+326,network coverage,D326,National goal fire decade his onto family suffer will force church.,3
+327,internet speed,D327,Other pretty property new whole government hit usually including.,0
+328,network coverage,D328,Trade force material some apply year third turn born about fear middle soldier together sport law.,1
+329,data science,D329,Six new go during someone friend around fill star scene health care drug few allow serious.,0
+330,network coverage,D330,Trouble force central own southern region vote situation her area but.,2
+331,data science,D331,Reflect four wish upon wait force sit so make help represent.,2
+332,wifi connection,D332,Reveal foot take Mr take thousand positive outside make second imagine office window change sometimes no.,1
+333,wifi connection,D333,House likely executive cost safe against military main spend leave Republican arm front father take.,3
+334,internet speed,D334,Trade detail sense gas ground heart along occur.,1
+335,birds raised,D335,End sport mouth product return court wall large.,1
+336,data science,D336,Become fish matter population entire her of else agree.,0
+337,wifi connection,D337,House tax option mind red history hit.,3
+338,mobile signal,D338,Program Democrat give old hold player pretty.,3
+339,mobile signal,D339,Blue experience father plan how yes voice.,2
+340,internet speed,D340,Other reduce learn whose off must they will both sea despite agreement.,3
+341,wifi connection,D341,Decade beyond across level only serve phone.,1
+342,data science,D342,Yard TV with try help heart sport for physical but.,1
+343,birds raised,D343,Drug car end likely court choose I attention.,1
+344,cloud computing,D344,Student pretty they everyone time believe drive recent real consider.,0
+345,internet speed,D345,Professional law against parent my unit design lay shoulder case.,1
+346,network coverage,D346,Year bill certainly painting focus area receive box white meeting experience surface what whether.,1
+347,network coverage,D347,Before process under stuff direction issue kind.,3
+348,cell tower,D348,Painting analysis stay speech heart thank management fall both value far government order mouth wear.,1
+349,birds raised,D349,But very somebody back marriage attention social why.,1
+350,data science,D350,Since be cell property why exactly until point young national team exactly hear information business.,2
+351,cloud computing,D351,Drug long eat power American mission size sea seem reflect bank image.,3
+352,artificial intelligence,D352,Material fast visit imagine lay site month hour bit instead.,2
+353,cloud computing,D353,Maybe would safe include account near simply accept himself.,1
+354,artificial intelligence,D354,See structure ever machine scientist trouble really feel sit throughout.,1
+355,internet speed,D355,Model Democrat those real shake she artist consider contain answer simple national manage action buy.,3
+356,data science,D356,Also there contain day structure tell anyone significant together serious quality land.,1
+357,birds raised,D357,Adult room above trade together child language discuss.,2
+358,cell tower,D358,Tend any alone so up usually manage sometimes culture unit mention Democrat.,2
+359,artificial intelligence,D359,Language board practice clear owner kind total personal poor.,3
+360,internet speed,D360,Remain them most million cold friend hard style season another service best improve.,3
+361,cloud computing,D361,Message wife measure himself discover wear politics knowledge develop pull kid small son best dream.,2
+362,cell tower,D362,Bank station sell condition artist view understand edge often yeah itself could quite.,2
+363,birds raised,D363,Store able stop star social several economy than model whose.,2
+364,wifi connection,D364,Democratic color interesting common last PM letter truth hand which wide.,2
+365,network coverage,D365,Major remember note model part simple order time talk notice clearly friend question realize.,3
+366,cell tower,D366,Something whatever pay throughout smile turn success with them happy fund growth fly pressure.,1
+367,machine learning,D367,Program school indeed believe start himself ever how.,2
+368,artificial intelligence,D368,Firm entire employee task discuss sing consumer back though court still six less company.,2
+369,machine learning,D369,Level explain physical may necessary push what sort raise call.,0
+370,wifi connection,D370,Reason past produce few former wear start later will watch protect city.,2
+371,mobile signal,D371,Director rise recent method themselves off trip player land end crime plan.,2
+372,cloud computing,D372,Name house owner choice day knowledge suggest little part turn time population argue key.,1
+373,artificial intelligence,D373,Energy debate place international close religious key quickly.,0
+374,cell tower,D374,Between state kind clear Congress return growth policy need Democrat country blue remain each with paper.,2
+375,data science,D375,City against serve public plan provide several fill money despite PM word its culture.,2
+376,data science,D376,Pull agreement military painting help someone exactly.,2
+377,cell tower,D377,Magazine of question name well some media since enter.,0
+378,machine learning,D378,Late management personal whose later life staff capital tough person popular.,2
+379,cell tower,D379,Share floor economy too everybody development yeah.,0
+380,internet speed,D380,Area of nothing must add member truth day.,0
+381,internet speed,D381,Dog drug need however south music section.,2
+382,wifi connection,D382,Either figure station too along line on your.,2
+383,birds raised,D383,Check sing news until real lose and statement service him subject focus eye friend deep attention.,3
+384,mobile signal,D384,Because dream security necessary production task cause picture serve discussion later cold age behind.,2
+385,machine learning,D385,Charge choice center at skin ten board no owner admit nothing.,2
+386,machine learning,D386,Either listen account serve or race appear.,3
+387,artificial intelligence,D387,Professional usually partner especially sure happen life with number develop government.,0
+388,wifi connection,D388,Home threat occur seem it role value wind customer consider level high strong.,0
+389,cell tower,D389,Although beat let later positive happy population news act week phone company suddenly alone full public.,3
+390,birds raised,D390,New write usually those effort suddenly southern factor do bill throughout decade professor.,2
+391,artificial intelligence,D391,Guess share a staff political along score service consumer wall discuss clear.,3
+392,network coverage,D392,Final no support down seek feel store skin already.,0
+393,mobile signal,D393,Federal culture special fight those wind or newspaper never.,2
+394,wifi connection,D394,Attention church response base better process recognize expert food land family can service.,3
+395,birds raised,D395,Whether own security organization wear name business cut traditional I rule me hold a onto wonder.,2
+396,cloud computing,D396,Thank usually on another school another guy person rich on data coach suddenly near mention year.,3
+397,cell tower,D397,Result condition day capital manage create situation tend other front no role.,1
+398,machine learning,D398,Letter seat another act debate dark year far right girl occur wish modern by traditional policy.,0
+399,cell tower,D399,Almost standard participant seven agent too those thing anyone middle free capital.,1
+400,wifi connection,D400,Computer sister left real simply this see point section do help.,1
+401,cloud computing,D401,Book force idea again get focus evidence moment.,0
+402,mobile signal,D402,Tonight responsibility their model set show evening north red door perhaps address firm.,0
+403,mobile signal,D403,Rate lot attorney page support star send current big raise.,2
+404,mobile signal,D404,Scene any party executive food develop brother respond apply my sport appear outside option.,3
+405,cloud computing,D405,Carry pressure style responsibility break throughout project weight interesting learn field away fire bring help.,1
+406,network coverage,D406,Prove list year magazine hour indicate scene stay somebody agent paper group find.,3
+407,network coverage,D407,And must away much forget public network clearly until usually section after pressure you strong.,2
+408,data science,D408,Ago enter soldier appear response girl mouth by.,0
+409,network coverage,D409,Market political dog they hair within poor project happen leave in able.,3
+410,data science,D410,Bag describe one oil condition commercial begin mission drop board inside a drop many tough.,3
+411,mobile signal,D411,Position page score fire talk thousand article six herself candidate Republican time base fact.,1
+412,machine learning,D412,Training land fast character reach hand and day scene of eat side moment such student security.,1
+413,network coverage,D413,Eye year station live throughout appear glass member cover summer.,0
+414,artificial intelligence,D414,Impact reason whose professor four late talk single question must address wish benefit as wonder letter.,3
+415,internet speed,D415,Board father spend return wait draw American arm hold.,3
+416,cell tower,D416,Behind toward side move term hard industry ask.,1
+417,internet speed,D417,As home age it year run mother.,2
+418,internet speed,D418,Figure strong budget serious pressure type take last them without financial will coach dog color.,2
+419,cell tower,D419,Student high analysis power something travel hard task join technology research sometimes certain how technology.,1
+420,cell tower,D420,President summer while imagine cover relationship remember lead girl choice practice matter over organization system.,0
+421,birds raised,D421,Would else option job economic benefit seek the various already husband add.,2
+422,internet speed,D422,Question senior stop actually three parent citizen allow article base more project.,0
+423,artificial intelligence,D423,Six discuss create could why involve hundred.,1
+424,wifi connection,D424,Clear record or detail movement director purpose peace store.,0
+425,mobile signal,D425,Commercial particular fast seek late stock view small political.,2
+426,internet speed,D426,Become PM six give policy wish as stop.,0
+427,artificial intelligence,D427,Will account impact time shoulder someone can position only teach bad job change evening.,3
+428,artificial intelligence,D428,Because give energy accept whom owner leader.,2
+429,cloud computing,D429,Want price cell protect movie assume also daughter thank.,2
+430,data science,D430,Hear future chance yourself carry edge his program myself toward another tree role floor writer.,1
+431,data science,D431,Within certainly approach he already enough card authority.,3
+432,machine learning,D432,Author them yet painting raise table cause foreign build southern.,0
+433,network coverage,D433,Return particularly success seem card hundred score billion nation.,1
+434,data science,D434,Cultural factor full goal traditional vote author energy bad side.,3
+435,machine learning,D435,We address game force Mr analysis less have measure our girl buy as through.,3
+436,cell tower,D436,American half book dog last cup out fund commercial third.,2
+437,internet speed,D437,Somebody buy discussion democratic policy anyone never.,2
+438,machine learning,D438,Art day evidence since fill send available rate tend fear program response.,0
+439,wifi connection,D439,Manager organization should growth now a open.,1
+440,data science,D440,Major soldier economy perform capital standard great begin more exist great look water call forward food.,1
+441,cloud computing,D441,Military benefit clearly compare fly four drop most own century city Democrat include likely.,1
+442,cloud computing,D442,Must half system agree act alone structure evidence more camera purpose.,2
+443,mobile signal,D443,Activity accept ever build need people lawyer rise big.,0
+444,machine learning,D444,However month nature difference necessary relate let of staff leave trouble person easy yard reality.,3
+445,internet speed,D445,Protect sense responsibility central service parent red TV describe course sea order account.,1
+446,cloud computing,D446,Develop tell assume statement hard Congress well environmental test fire cell front.,0
+447,wifi connection,D447,College while tell their soldier trouble book nearly in have whose leg future.,2
+448,machine learning,D448,Eight minute song dinner stand have himself sit evening drive building among.,0
+449,internet speed,D449,Number attack particular test newspaper begin lose.,3
+450,artificial intelligence,D450,Responsibility play room later wind friend very value writer.,2
+451,internet speed,D451,Role water memory indicate baby cold information street.,0
+452,internet speed,D452,Light down animal three dinner whole vote day eat course test stand.,2
+453,machine learning,D453,Rather control meet drop team glass today child hope.,1
+454,network coverage,D454,Politics so identify economy role include offer behind college street figure exactly evening whatever such.,0
+455,wifi connection,D455,Present be better should expert project agent everything unit again point energy natural.,0
+456,cell tower,D456,Air how although something until image few expect.,2
+457,birds raised,D457,Child economic region rate state number character.,1
+458,cell tower,D458,Fall eight free instead third door member huge security so sit character.,1
+459,wifi connection,D459,City daughter decision data establish ball service live bag evening.,1
+460,internet speed,D460,Why film rise could less red sea customer above down recent number yeah.,2
+461,cell tower,D461,Opportunity indicate example culture place modern smile direction end listen security enough process.,3
+462,machine learning,D462,Answer PM detail performance hour idea future face hot business hope.,2
+463,wifi connection,D463,Note spring according necessary right like which often room shoulder develop although some figure.,0
+464,birds raised,D464,Necessary why former civil high environmental former class according cup front action agency.,3
+465,data science,D465,Change believe teach myself adult too player management hear however green serve.,1
+466,data science,D466,Live edge ask hand each even interview month father police.,1
+467,mobile signal,D467,Small mission thing defense order treatment authority reason policy.,2
+468,network coverage,D468,Skin matter ahead organization determine relationship amount left case account probably.,0
+469,cloud computing,D469,Character memory national capital front one dog manager personal commercial left.,2
+470,wifi connection,D470,Staff plant no politics race nation price.,1
+471,network coverage,D471,Cultural somebody center single last environment pattern choice former group.,0
+472,data science,D472,Business although operation produce meeting where suffer pretty could foot southern system certainly training ground.,2
+473,data science,D473,Report reach charge financial near cut result upon personal night style how conference.,1
+474,birds raised,D474,Her office city member identify structure son help choose end black thing standard determine walk.,1
+475,mobile signal,D475,Little shoulder cut however fast network not for.,0
+476,cell tower,D476,View reason wrong she common last chance head mission hold develop yeah.,3
+477,artificial intelligence,D477,Look yourself relationship can interview hard risk us.,2
+478,cell tower,D478,Care some weight high doctor determine money yard free try bag Democrat.,3
+479,internet speed,D479,Especially often rate risk practice avoid every radio bring plan decade.,3
+480,mobile signal,D480,Nation down attention administration what great left public huge share yet.,0
+481,birds raised,D481,Floor course his behind else type identify expert win rate present address professional.,0
+482,internet speed,D482,Point would year game ten last edge determine enjoy fill.,2
+483,cell tower,D483,Series season season production body feel less enjoy four number.,2
+484,data science,D484,Call unit though change president watch under market executive head population represent east.,1
+485,machine learning,D485,Deal moment business financial exist our evidence official citizen figure technology money talk run.,2
+486,mobile signal,D486,Part consider concern field receive science market professional which body region class.,3
+487,mobile signal,D487,But share away scientist perhaps recently cost lose key product wall pay road most.,2
+488,artificial intelligence,D488,Leader call can cultural wall claim rate skill source teach north help should a employee collection.,2
+489,mobile signal,D489,Whether management policy keep peace indicate imagine cultural maintain suddenly yeah.,1
+490,birds raised,D490,Executive song remember law black who game billion cup question kid rule.,3
+491,cloud computing,D491,Attack say newspaper same environment guess writer trial bill.,2
+492,network coverage,D492,Get lot film rock movie month leader.,0
+493,birds raised,D493,Fast everyone else be stuff even role phone.,1
+494,birds raised,D494,Treatment listen its a support accept scene any why television know measure space part.,0
+495,artificial intelligence,D495,That see between style suddenly none kind player name themselves industry certainly catch create.,0
+496,birds raised,D496,Generation world hear movie smile nor guess but evening either range fact today staff future.,1
+497,birds raised,D497,Unit would drop teach according speech head.,2
+498,mobile signal,D498,Treat environmental for today likely fine risk far improve scientist pick include remain his.,0
+499,internet speed,D499,Compare level room somebody with check lot water spring around local.,1
+500,machine learning,D500,Attorney budget half safe role up space free who then.,0
+501,internet speed,D501,Enough enough strategy foreign themselves magazine market reality economy any worker Congress.,2
+502,cell tower,D502,Spring age arrive appear box prevent help cover senior free chance.,0
+503,machine learning,D503,Home success almost speech despite old Democrat off west.,3
+504,birds raised,D504,Available generation forget subject grow ok describe newspaper collection experience organization owner later.,0
+505,internet speed,D505,Always power poor catch share skin near decide machine nor window.,2
+506,wifi connection,D506,Air receive consider often rule if need front source.,1
+507,artificial intelligence,D507,Paper film foot final medical certainly which white light.,2
+508,wifi connection,D508,Long health decide project building technology sure small the movie simply.,1
+509,machine learning,D509,Base step long outside news scene kitchen training friend personal difference kitchen east.,0
+510,cell tower,D510,Performance stand five create summer instead bill drive kitchen.,2
+511,artificial intelligence,D511,Morning less sound contain statement mention respond just along class throw eye family girl.,1
+512,internet speed,D512,Cost support room address fast firm hear someone scene center recent tax bill.,1
+513,cloud computing,D513,Within police store reduce son window ever their response per consumer.,1
+514,data science,D514,Article military process moment air plan front when away set suddenly until unit.,1
+515,internet speed,D515,Agreement hit arm down partner those make popular their seem give with some ready heavy reveal.,3
+516,wifi connection,D516,Late kid skill hard hold say visit side professional herself community particularly feel.,0
+517,mobile signal,D517,Tell computer letter accept manage allow song consumer different name.,3
+518,internet speed,D518,Himself full customer want word until PM.,0
+519,network coverage,D519,Story focus fill ready along agreement or thousand remember down.,1
+520,machine learning,D520,Material suggest only themselves wall foreign sure quite century dark civil nice difference Mr.,2
+521,cell tower,D521,Strong down staff clearly country fear mouth ready member star accept seat say staff easy rock.,0
+522,cell tower,D522,However necessary more him my protect court.,0
+523,internet speed,D523,Position wide well strategy again play science do night five.,2
+524,machine learning,D524,Trouble early understand health art deal mind authority cup particular west staff statement.,2
+525,network coverage,D525,Woman marriage own majority it involve lawyer technology.,1
+526,artificial intelligence,D526,Kid style PM as way view deep.,2
+527,internet speed,D527,Citizen more capital open city wish book together necessary stop opportunity.,0
+528,network coverage,D528,Green them particularly by attorney whom college each.,1
+529,network coverage,D529,Structure seek view cold compare theory leg dinner other.,1
+530,data science,D530,Language increase or adult shake me day have listen television analysis anyone summer same such.,3
+531,wifi connection,D531,Authority another citizen choice poor market group name attack office unit her.,1
+532,network coverage,D532,Support hour three must movement draw place over project.,2
+533,internet speed,D533,Government walk institution listen friend prove generation and assume open west institution century.,2
+534,artificial intelligence,D534,Political way maybe those but itself during car measure card.,3
+535,birds raised,D535,Before sort green stock today degree discuss alone help but it radio billion.,0
+536,mobile signal,D536,Hotel box become break feeling turn hot environmental defense article skin every we of artist subject.,0
+537,cloud computing,D537,Receive north population sell easy partner evidence market fine.,0
+538,internet speed,D538,Leg boy ten role event area group piece.,2
+539,machine learning,D539,Contain grow recognize city two any charge would general part.,3
+540,cell tower,D540,Record cultural interview sure over pressure reality degree wonder.,3
+541,artificial intelligence,D541,Sister less pull peace ever two particularly successful center.,3
+542,wifi connection,D542,History involve offer kind figure give tax expect recognize.,2
+543,network coverage,D543,He in size wall fact plan agent bed agent mouth enough positive big number present may.,2
+544,wifi connection,D544,List national lay else mother despite name.,1
+545,data science,D545,It oil front once collection relationship play poor green every election serve upon.,2
+546,data science,D546,Security process low result production bring measure opportunity more sea summer.,2
+547,wifi connection,D547,Quality mother military available find without agent clearly seat audience show his just seem small.,1
+548,wifi connection,D548,Office week push travel become then high certain ten alone than save allow opportunity.,1
+549,internet speed,D549,Appear raise explain race why herself act manager smile several Congress.,1
+550,birds raised,D550,Cell say form reason people garden study offer present.,2
+551,cell tower,D551,Else yes decade somebody explain beat take whether opportunity debate create free find.,2
+552,network coverage,D552,Modern involve lead question deep instead factor attack marriage last.,0
+553,wifi connection,D553,Allow stop dark deep young close once skill wind.,0
+554,birds raised,D554,Church they bar according no scene keep sister there keep act.,1
+555,data science,D555,On structure however thought no treatment member use happy allow whatever course financial exist across.,3
+556,mobile signal,D556,Pm where blood great base pay share since important reveal sign state go.,0
+557,internet speed,D557,Popular including as still quite minute ability.,3
+558,birds raised,D558,Democratic by read church campaign clearly fast.,1
+559,internet speed,D559,Exactly whose argue sit sport possible become with usually.,2
+560,cloud computing,D560,Yeah pattern successful else rather area might upon write.,0
+561,birds raised,D561,Force huge fact tell child end actually agreement fast up listen capital over.,2
+562,birds raised,D562,Receive as security measure that mission foreign perhaps fact parent week fire bank just not.,2
+563,data science,D563,Discuss effect thousand night rate college week fine affect system peace sometimes.,0
+564,wifi connection,D564,Receive whole night same voice cell director perhaps environmental add around trouble little level buy.,0
+565,machine learning,D565,Main simply magazine himself design hotel develop total reach prove power charge perhaps.,0
+566,cloud computing,D566,Heavy candidate experience trip term world do.,2
+567,network coverage,D567,Able ask law administration computer compare tell.,0
+568,artificial intelligence,D568,Since east thousand this successful role everything recent.,1
+569,cell tower,D569,Listen too mother already occur throughout only subject ok take front successful detail put join.,2
+570,wifi connection,D570,Personal democratic after gun career later though.,3
+571,machine learning,D571,Billion character key hotel back thank believe own without yes bank describe drug forget indicate.,1
+572,cell tower,D572,Safe himself radio news every loss attorney tree black company realize option miss.,3
+573,artificial intelligence,D573,Message ten seem why half each top.,3
+574,cell tower,D574,Kitchen level war detail everything ten face long record book her modern whole available alone usually.,0
+575,internet speed,D575,According stage light space ball pattern play hope central commercial.,3
+576,machine learning,D576,Station address edge say camera paper knowledge.,3
+577,cloud computing,D577,View beyond institution design possible but at improve community per professional power like middle.,1
+578,internet speed,D578,Stay explain report about should away beautiful third technology.,1
+579,mobile signal,D579,Down key thought center continue receive by property check me would speak upon history wide week.,0
+580,artificial intelligence,D580,Eat board must especially partner now deep throw.,1
+581,artificial intelligence,D581,Peace between color rest race forget choice wide memory south.,2
+582,wifi connection,D582,Middle school miss system bill test case who.,0
+583,wifi connection,D583,Both mission authority than member local would game stage answer life family.,0
+584,machine learning,D584,Skin machine spend success success also care when learn sense teach.,2
+585,network coverage,D585,Democrat area candidate remain keep throughout in ago.,0
+586,cell tower,D586,Hair civil figure investment everybody night us book where.,1
+587,artificial intelligence,D587,Rest deal center hit environment expect important or guess.,3
+588,cloud computing,D588,Family buy successful perform quickly check kitchen adult any wall fund produce.,2
+589,cloud computing,D589,Now out professor never story science experience near somebody travel.,0
+590,birds raised,D590,Future from glass blood positive similar bad project bit foot increase left fish.,2
+591,data science,D591,Occur development continue detail federal bring policy gun property fact close available impact attorney design specific.,0
+592,artificial intelligence,D592,Fly be various college avoid charge clear fund throw partner these read crime choice.,3
+593,data science,D593,Likely family statement apply body eight process must forget.,1
+594,wifi connection,D594,Direction myself everyone within assume middle firm today already page official serious quickly my concern.,0
+595,machine learning,D595,Party expert challenge image certain thing than worry collection.,3
+596,birds raised,D596,Energy guess however general information soon teacher beyond owner though stage paper thank off always.,3
+597,artificial intelligence,D597,Show still next street quickly sure of box common lead culture red detail prove.,1
+598,mobile signal,D598,Executive box air treatment although check safe leader record chair reduce pattern produce see business others.,3
+599,artificial intelligence,D599,Smile court I around dream son church everyone.,2
+600,internet speed,D600,Style hand real yard ever safe car trip.,0
+601,cell tower,D601,Ability art pick building plant recognize tax well color.,2
+602,cloud computing,D602,Executive source southern meet book democratic really.,2
+603,internet speed,D603,Walk rest red wind get action water today woman.,2
+604,network coverage,D604,Forget culture similar necessary relationship bar past ago until heart.,2
+605,mobile signal,D605,Someone above program quality nature star structure consider until ever.,3
+606,mobile signal,D606,Behind spend college evening available money nation life commercial hot evidence crime present star.,1
+607,machine learning,D607,Focus dark great level party free method dark bank authority receive down course suddenly itself.,0
+608,birds raised,D608,Certain right natural in themselves everyone imagine.,2
+609,birds raised,D609,Develop society program official build deal owner threat interview baby family himself method night.,1
+610,mobile signal,D610,Policy in natural message move ask marriage item church figure talk time lawyer TV.,1
+611,birds raised,D611,Put trial line audience hard process fly agree nearly nor blue more control.,3
+612,network coverage,D612,Network apply wall quickly keep property require summer training factor part mother.,0
+613,wifi connection,D613,Away rise home site base rock safe provide point stage or.,1
+614,wifi connection,D614,Member three cultural find number law region size year.,0
+615,artificial intelligence,D615,Program major bank human mouth get mind after picture.,0
+616,birds raised,D616,Best whose leader away actually foot begin bit staff north stage.,0
+617,network coverage,D617,Add to arm most if run hope explain.,2
+618,network coverage,D618,Crime television effect along add area investment course news science gun director.,1
+619,wifi connection,D619,Build little area east read American after tend think art.,2
+620,network coverage,D620,Sign purpose find particular open anything capital traditional can know know who.,1
+621,artificial intelligence,D621,Today improve let a idea gas its live painting too.,0
+622,cloud computing,D622,Whole focus as board base save need water develop we recognize reach.,3
+623,cell tower,D623,Evening remain standard like throw break sister machine fast home.,3
+624,data science,D624,Behavior account attack it still thought station you consider successful act surface break walk.,2
+625,wifi connection,D625,Environmental down outside black oil standard challenge safe worry protect.,0
+626,data science,D626,Congress bank threat environmental role score person experience language air look.,0
+627,wifi connection,D627,Couple score employee system clear human worker opportunity hold near military clear road.,0
+628,data science,D628,Open experience own size former me measure out fire side among Democrat.,2
+629,network coverage,D629,Day agent bag save rock eight study stand every since need heavy ok sort message.,3
+630,mobile signal,D630,Chance sound degree course see happy almost bar above turn culture able.,0
+631,cell tower,D631,Paper fire nor edge film Republican everyone result only may.,2
+632,data science,D632,Voice talk around news weight learn anything culture eight attorney kid director husband surface trade.,3
+633,network coverage,D633,Notice anyone for month he thousand total expect agree charge.,1
+634,wifi connection,D634,Will high work wind official ability whose leader best clear know second.,2
+635,cell tower,D635,Manager apply purpose though standard staff into technology herself.,0
+636,network coverage,D636,Company television well staff whatever likely authority television memory less provide nation.,3
+637,birds raised,D637,Wonder girl statement yard air treat what do we.,1
+638,birds raised,D638,During face mean stand up check ball purpose one race note.,0
+639,artificial intelligence,D639,Party management set help place see old admit include drive particularly discover development.,2
+640,cell tower,D640,Suggest capital window plan physical society page left quality.,1
+641,internet speed,D641,Age material somebody whatever pattern else right week usually.,2
+642,internet speed,D642,Ability better speech similar north whom president whose fact.,1
+643,internet speed,D643,Learn little enter million course participant provide sing year western section before direction world.,2
+644,network coverage,D644,Get only detail know skin hit American face mean institution rule from trouble this guess.,2
+645,artificial intelligence,D645,Site not simple college food media eye successful.,0
+646,data science,D646,Decide if short maintain crime practice camera.,3
+647,artificial intelligence,D647,Adult push fund marriage amount speech live it either really who.,3
+648,artificial intelligence,D648,Soon keep production person store indicate particular war itself remain.,1
+649,data science,D649,Baby single writer clearly yeah whether join each start child since.,2
+650,cell tower,D650,It matter former course health key court analysis carry try risk sell yet several.,2
+651,birds raised,D651,Particular close through stuff hard be create executive would role several.,3
+652,cell tower,D652,Piece design of marriage economy end police month unit fast person.,2
+653,data science,D653,Issue baby Congress reason health camera leg check his color herself believe.,1
+654,birds raised,D654,Picture building song cell eat material record allow.,3
+655,network coverage,D655,Page by citizen operation hotel author movie capital behavior type.,3
+656,data science,D656,Leader woman true plant economic old include wind three watch.,1
+657,cloud computing,D657,Keep stand her his cultural save hit may too charge debate police.,1
+658,cloud computing,D658,Trade white main nearly themselves across phone responsibility.,2
+659,artificial intelligence,D659,Gas man choose music with public effort off often shake instead on language a economy.,2
+660,mobile signal,D660,Have mission network general star rate east born whatever fast firm state explain down director.,1
+661,cloud computing,D661,Campaign guess machine feel sister most audience yourself whom his crime baby clearly wrong may.,0
+662,wifi connection,D662,By person share establish visit fall find learn hair court thought.,2
+663,data science,D663,Run woman also deal many catch sense coach she final who.,1
+664,cloud computing,D664,Moment character major crime read hope two position evidence attack something red street professor.,1
+665,birds raised,D665,Station exactly face recently stock knowledge prove continue more.,0
+666,wifi connection,D666,Stop pull feel human above agent month parent treatment accept lose direction.,0
+667,artificial intelligence,D667,Animal film somebody material nearly consider many fill detail evidence table interesting exist area.,0
+668,cloud computing,D668,Base indeed compare speech question heart middle chance around practice center generation.,0
+669,artificial intelligence,D669,Purpose share total must after arrive great exactly Democrat throughout card assume.,1
+670,artificial intelligence,D670,Think industry collection skin you hold especially drug speak line agent we could also.,1
+671,artificial intelligence,D671,Hand perhaps thought of mean raise fish them.,3
+672,cloud computing,D672,Join picture in everything teach woman late interview surface tell official hot.,1
+673,wifi connection,D673,Mention painting not store be fill early method one analysis lose can it.,1
+674,machine learning,D674,Prove actually money last through drop will value young economic south page phone red enough many.,0
+675,machine learning,D675,Wall effect could recognize side third really them statement end project picture customer meeting reason place.,1
+676,cloud computing,D676,Indicate nature majority step require language side fine management stage able.,2
+677,cell tower,D677,Each senior their mouth even determine side eat.,3
+678,mobile signal,D678,Player thank big there argue writer artist give black moment upon along sure short institution prevent.,1
+679,cloud computing,D679,Rock add discussion pretty yet help director carry increase medical science member think beautiful nice.,1
+680,data science,D680,Truth floor everyone machine third avoid management shoulder decide.,2
+681,cell tower,D681,Start produce consider despite nice order size win organization another quite return human.,2
+682,data science,D682,Group gas result hit wide necessary true.,2
+683,mobile signal,D683,Democratic identify subject significant expert analysis significant knowledge.,1
+684,network coverage,D684,Forward street recent dinner grow across admit decision ready most grow goal house bring expert.,2
+685,birds raised,D685,Office wear yeah factor drug out hospital year admit draw some paper employee money.,2
+686,data science,D686,Back people just near then bag reason wide ball seek especially treatment scene.,1
+687,wifi connection,D687,Trial trip happen present prepare artist usually as support.,3
+688,cell tower,D688,Require yeah do gas piece down artist still.,1
+689,data science,D689,Spring development address though pay deal son sing guy head sing far.,2
+690,mobile signal,D690,Baby defense major contain conference other structure number media social per customer military already customer paper.,1
+691,wifi connection,D691,Image president that upon win rule easy choose artist child page.,2
+692,wifi connection,D692,Morning time money year those both cultural rise three suffer.,1
+693,mobile signal,D693,Best home difficult yourself different environment form include ground once feeling appear turn thus.,0
+694,cell tower,D694,Themselves short more all book news short on for world very.,2
+695,machine learning,D695,Company reach culture tough top keep maintain history range know your.,2
+696,mobile signal,D696,Last budget answer movie recent page indeed particularly.,2
+697,birds raised,D697,Look very society your student modern never perform important hard garden fall.,3
+698,internet speed,D698,Thousand organization likely around phone red case town act usually full ten way night usually.,2
+699,cloud computing,D699,But future discuss behind least finish perhaps service eye.,2
+700,artificial intelligence,D700,Official total general buy street it year appear free think mention phone significant great.,0
+701,cell tower,D701,Result ability mission spring business again medical money become coach.,3
+702,data science,D702,Probably however a consumer system throw husband.,3
+703,machine learning,D703,Anyone personal speech modern service country beyond soon consider difference kid half street three.,0
+704,wifi connection,D704,Half peace reveal skin movement from there.,0
+705,wifi connection,D705,Memory anyone watch candidate mention three or central establish.,0
+706,network coverage,D706,Major class standard economic before arrive wind matter painting.,1
+707,artificial intelligence,D707,Letter continue him really enjoy structure thousand five improve effort.,0
+708,network coverage,D708,Environment mission however skin act return without do know side whole describe ten.,1
+709,machine learning,D709,Seven listen walk threat nation situation language others table return resource remember easy fish each wrong.,0
+710,cloud computing,D710,Where best game democratic moment pay rule listen western impact both.,1
+711,cell tower,D711,Popular game house up care red new.,1
+712,network coverage,D712,International box main simple world man born Mr oil.,0
+713,birds raised,D713,Reveal brother man fire black paper develop.,1
+714,internet speed,D714,Magazine night get institution event democratic southern really.,1
+715,cloud computing,D715,Across phone this I short letter boy moment white pressure skin white hope city.,3
+716,data science,D716,For final very pay bill model long building style pull TV would.,0
+717,network coverage,D717,Player television again kitchen ahead chance away rich smile sometimes smile against line similar.,2
+718,cloud computing,D718,Appear room nor economic property police fire sell while.,3
+719,cloud computing,D719,Partner process see or rich major keep available apply wonder he.,0
+720,data science,D720,Should teach threat political others own loss assume raise stop class important do where.,3
+721,birds raised,D721,Test where economy could color evidence others everyone in create similar hard glass fish treatment.,3
+722,cloud computing,D722,Stand it increase people prove address present agency eight situation office care thing little.,3
+723,cell tower,D723,Poor book system key floor first foot under it benefit.,1
+724,artificial intelligence,D724,Something something first coach in cultural future trade later else alone process accept ever trade.,2
+725,cell tower,D725,Through moment firm court note response likely mean single born.,1
+726,data science,D726,Per course from best even support commercial run animal allow office fast big.,0
+727,wifi connection,D727,Consumer off indeed you production side anything.,0
+728,internet speed,D728,Worker rest difference people wrong same human technology field foot fall economy.,3
+729,artificial intelligence,D729,Risk standard near could approach animal pull many.,1
+730,birds raised,D730,Open certain front dinner ability tend simple approach million.,3
+731,cell tower,D731,Civil likely someone year real fast what do political recent skin own yet almost mean.,3
+732,network coverage,D732,Discuss require six term exist if body every task miss morning.,1
+733,machine learning,D733,Product yard night third citizen discussion majority phone.,1
+734,artificial intelligence,D734,Forget news work talk degree western camera their most.,3
+735,birds raised,D735,Action speech out beautiful total growth either former attention table arrive.,1
+736,artificial intelligence,D736,Relationship produce study ball will watch rule.,2
+737,cell tower,D737,Soldier war ground day while include call begin environment eye suggest test.,1
+738,internet speed,D738,Just reflect college growth old teach skill.,3
+739,cloud computing,D739,Main answer range pay development garden current possible most.,0
+740,cell tower,D740,Media again pass spend professional lose sort hear time.,2
+741,cloud computing,D741,Fund center executive garden give option clear.,2
+742,data science,D742,Watch check most ability though southern analysis maybe success market move ahead cultural.,3
+743,artificial intelligence,D743,Gas do relationship western board require keep short especially and stage event.,1
+744,mobile signal,D744,Training important administration sure minute join example stop practice democratic fly draw executive very which.,2
+745,wifi connection,D745,Wait create third vote two item know reflect land house class else.,2
+746,cell tower,D746,Final actually situation crime return record wonder lose sport somebody chance their both.,1
+747,cloud computing,D747,Democrat very treat administration buy garden customer Democrat town one camera everything always social start.,3
+748,machine learning,D748,Girl spring work first ground degree contain themselves television be character treatment five four.,2
+749,birds raised,D749,Forget Mrs would all staff event positive never down leader power cover.,2
+750,cell tower,D750,Specific war human affect teacher risk fact role fund certainly though new.,3
+751,cloud computing,D751,Collection size offer another thank smile TV approach eight animal stock suffer true threat realize.,1
+752,birds raised,D752,Discover defense father affect middle little interest.,1
+753,mobile signal,D753,Them during him reflect short fine grow certainly everything since expect other market person.,0
+754,machine learning,D754,Sister already about close human sell police.,0
+755,mobile signal,D755,Enough recent our natural through rest relationship there while it range business within ball everything knowledge.,1
+756,artificial intelligence,D756,Role official receive truth all join add manage decision notice discuss throw now guy defense.,3
+757,birds raised,D757,Under long policy generation fire weight could identify outside section power always civil how.,3
+758,cell tower,D758,Marriage oil crime ask provide hot team big bring I get physical.,0
+759,data science,D759,Actually force team find himself cost him front family sign might attorney.,1
+760,data science,D760,World age hair particular painting play above section nice its doctor meeting impact will.,3
+761,cloud computing,D761,Economic section because window such already war common black break century less hundred no.,3
+762,internet speed,D762,Statement strong speak population crime must order nearly cold seem recognize step away main send drop.,2
+763,artificial intelligence,D763,Central nothing off plan because all nothing force activity bar.,2
+764,cell tower,D764,Design still staff mouth phone establish reach improve hand.,3
+765,artificial intelligence,D765,Which letter buy then positive respond consumer through.,2
+766,data science,D766,Set crime fine ability notice picture remember my stock per although.,1
+767,artificial intelligence,D767,Century trial what try week Republican crime everyone interesting compare analysis.,0
+768,cloud computing,D768,While too report his even phone Mrs question report.,1
+769,cloud computing,D769,Another picture significant stand figure kind determine yeah necessary such discover country suggest agent.,2
+770,internet speed,D770,Civil follow even gun upon director cost respond offer within laugh fast.,2
+771,cloud computing,D771,Language there ago go another wait avoid bit the election energy.,0
+772,cell tower,D772,Voice move toward energy onto huge quality old risk.,3
+773,mobile signal,D773,Subject poor billion computer feeling hear place movie.,2
+774,birds raised,D774,Situation human end worry economy fall imagine executive.,3
+775,network coverage,D775,Film level by east air again but a society successful suggest.,3
+776,cloud computing,D776,Security imagine best fill possible class foreign near itself fight knowledge economy single report upon.,1
+777,artificial intelligence,D777,Base eight hour knowledge stay organization put budget always send among science letter laugh notice.,2
+778,birds raised,D778,Plan series focus over cut protect as former future other although firm reality option herself.,3
+779,birds raised,D779,It particular social financial consider run store to college water reduce natural son.,1
+780,mobile signal,D780,Employee say question impact treat west happy it care medical specific beat agency to system.,3
+781,cell tower,D781,Suggest own should child something technology century attorney region detail service.,2
+782,data science,D782,Mr spend half white new bring look central yourself difference he.,0
+783,wifi connection,D783,Another shake one war theory animal long visit example bring enough.,2
+784,mobile signal,D784,Eight important myself few design may who admit.,3
+785,artificial intelligence,D785,Approach mean big bag hold movement hold born eye west.,0
+786,artificial intelligence,D786,Drive population position professor until visit throw.,1
+787,birds raised,D787,History fund face nearly watch impact majority part between lot project project scene take yeah.,0
+788,cell tower,D788,House behind represent positive opportunity ability training lay.,1
+789,artificial intelligence,D789,Yeah main husband major wind throw head sea Republican front notice range ten deal class phone.,2
+790,wifi connection,D790,Talk pull sea better table authority respond team watch law thought national city article like.,3
+791,artificial intelligence,D791,Life exactly north nor ten each crime outside edge clear season seat field mean guy.,0
+792,machine learning,D792,Wall represent later chance day like night nice these out certainly.,0
+793,network coverage,D793,Newspaper including board who method camera under list kid exist computer too blue question rock.,2
+794,wifi connection,D794,Score Democrat peace good whom condition health.,2
+795,mobile signal,D795,Price would bag adult sort once guy nothing against.,1
+796,machine learning,D796,Hit score lead likely only wide fly future.,3
+797,machine learning,D797,Your college word rich she create get world treatment manager population late education civil whole could.,0
+798,cloud computing,D798,Course amount audience candidate show anything own return yes close.,1
+799,data science,D799,Truth wear father against nothing number ten herself bed commercial radio star where weight.,2
+800,birds raised,D800,Ten short husband win imagine century pattern behavior already west window above fly these past light.,2
+801,machine learning,D801,Production rule deal seek media pattern local shake point save.,1
+802,cloud computing,D802,Exist situation expert plant near agent TV door mind.,1
+803,machine learning,D803,Campaign should far along between guy easy say.,2
+804,cloud computing,D804,Security training discuss million half all respond value beat the western structure structure.,3
+805,mobile signal,D805,Citizen color role fear anyone phone most shoulder boy present.,2
+806,cloud computing,D806,Perhaps north administration thousand knowledge allow owner size easy less which.,0
+807,data science,D807,Join day certainly pass generation may hit wind final whole player executive by.,3
+808,mobile signal,D808,Score especially finally Democrat skill create more I minute light along mother defense.,3
+809,wifi connection,D809,Word campaign effort senior relate their college test.,3
+810,internet speed,D810,Different determine because all material would close outside great hotel they woman customer.,2
+811,wifi connection,D811,Environmental there product model present general treat.,1
+812,wifi connection,D812,Let contain record environmental place wait memory focus baby class sound ability.,0
+813,cell tower,D813,Six might star box few second treat none peace one.,1
+814,mobile signal,D814,Personal particular however light dinner be model eight indicate above treat drug report program several.,0
+815,cell tower,D815,Try big whose positive song trade could writer own major edge.,2
+816,mobile signal,D816,Image student pass upon son close challenge rise.,0
+817,data science,D817,Why what car deal either hear rest back cut region offer step figure.,2
+818,mobile signal,D818,Best another short add make long notice born only hair rate hand week example attorney.,1
+819,mobile signal,D819,Easy quickly go agent owner food hit lead ground.,1
+820,cloud computing,D820,Buy start young son follow next light compare visit.,3
+821,cell tower,D821,Identify movie word bed while commercial shoulder stand wear.,1
+822,data science,D822,Eat campaign personal system water mouth build manager money section in ask.,3
+823,mobile signal,D823,Hard only include business recognize southern attention serve indicate better purpose practice street measure check floor.,2
+824,data science,D824,Home happy focus near kid care act.,1
+825,mobile signal,D825,Other grow shoulder PM modern size close far bit why trouble chair.,2
+826,birds raised,D826,Story peace pass pattern let your walk rock.,2
+827,mobile signal,D827,However shoulder western color because note star present physical social reduce name feeling.,3
+828,birds raised,D828,Opportunity believe form respond career smile tell piece Mrs know buy.,2
+829,cell tower,D829,Air hair wish hope maybe night economic sense administration ok.,0
+830,cell tower,D830,Rich effort song half piece charge drive per court quite increase.,1
+831,cell tower,D831,Model expert name guy say knowledge decide.,2
+832,network coverage,D832,Plan prepare hold could beat whatever tough shoulder according agency those return much meet.,0
+833,birds raised,D833,Lot hand sea left region pretty however activity.,1
+834,wifi connection,D834,Meet pattern daughter the population herself measure notice.,2
+835,birds raised,D835,Administration fall night million financial college film foreign stop list than need trial production enter federal.,1
+836,birds raised,D836,Effort really plant small goal party American order idea.,1
+837,birds raised,D837,Government drug throw choose case near side type entire itself this at.,3
+838,cell tower,D838,Like well watch arrive capital rate leg raise bank lead goal hear.,1
+839,mobile signal,D839,Own sea represent bar look defense summer system blue man leader.,0
+840,cell tower,D840,Successful bit majority no recently stuff visit radio.,1
+841,cell tower,D841,Base compare reach main listen anything street save follow total leave discuss mother line.,3
+842,machine learning,D842,Just almost allow human also way nation agent culture fly box understand senior.,3
+843,cloud computing,D843,Dark leader image imagine fire strategy kid page government high daughter focus.,3
+844,machine learning,D844,Impact fly evidence so model less event into.,1
+845,data science,D845,Word happen key edge them before develop dog about ability.,0
+846,cloud computing,D846,Religious animal marriage including expect like issue baby such though decide certainly each market break.,1
+847,mobile signal,D847,Minute society space drive democratic development middle sit health since dark information employee opportunity.,2
+848,data science,D848,Whose vote call daughter these budget leg.,2
+849,cloud computing,D849,Eat seek analysis table feel man man this people phone nation drop.,3
+850,internet speed,D850,Nice during response believe sometimes along either.,1
+851,cell tower,D851,Group realize spend news audience among value north PM more religious seek.,1
+852,data science,D852,Everybody travel resource remain national represent mouth test send technology knowledge.,1
+853,birds raised,D853,Dog here north discuss several baby behavior decide east.,3
+854,network coverage,D854,Group student class share tough son author movement of cell power laugh picture enough picture rather.,0
+855,data science,D855,Garden program black mean nation quite poor page political.,1
+856,cloud computing,D856,Age question send somebody feel a no together wife together from rule suggest.,3
+857,wifi connection,D857,Daughter from again floor exactly picture approach agree.,1
+858,artificial intelligence,D858,Ready tree so town result possible finish let throw kid.,3
+859,network coverage,D859,Idea turn final show certain work relationship break.,1
+860,data science,D860,Hotel future poor believe understand big necessary child experience season still me economic listen.,0
+861,cell tower,D861,Go behind language score true usually should line rather move mother reason performance politics authority.,3
+862,internet speed,D862,Return return great magazine maintain network treat.,3
+863,wifi connection,D863,American every term know memory create action public.,0
+864,birds raised,D864,Create final rise these glass east material west successful collection prepare yourself work whatever federal.,3
+865,birds raised,D865,Degree cup technology fish marriage religious take agreement sing cover many performance.,1
+866,internet speed,D866,Her two catch how option appear agent something air bad Congress make.,2
+867,data science,D867,Appear soon six civil decision phone offer evidence over wish act major rest.,0
+868,cloud computing,D868,Management car huge hospital number stay TV bank where book.,2
+869,artificial intelligence,D869,Center book kid imagine water unit agency energy business culture data sing mission majority.,0
+870,mobile signal,D870,Road me away war some first cover might prepare respond difference.,3
+871,mobile signal,D871,Quickly eight discussion some south manager group all side walk structure half do environmental.,2
+872,birds raised,D872,Nation able mention partner after church recognize.,3
+873,artificial intelligence,D873,Avoid state find able administration education class task others official store whether.,3
+874,internet speed,D874,Animal race professional as billion research professor soon western front art.,0
+875,data science,D875,Program admit Mrs land hotel bank safe.,1
+876,network coverage,D876,Claim across certain economic kind myself material media.,3
+877,mobile signal,D877,Both agent discuss boy sing church development environment speak form major skill every.,2
+878,birds raised,D878,Business research answer out political sure heavy cause what.,0
+879,birds raised,D879,Respond car able high radio both ok off door skin.,3
+880,network coverage,D880,Line benefit nature summer capital require support top.,1
+881,wifi connection,D881,Full soldier world call seat meet his appear senior here collection beat.,3
+882,artificial intelligence,D882,Pressure during catch fill give race guy job least.,0
+883,internet speed,D883,Specific one task star form large police program half protect kind should despite information summer want.,0
+884,wifi connection,D884,Important radio me draw happy take analysis everybody loss produce edge land.,1
+885,cloud computing,D885,Stage power peace stand apply little word factor write.,0
+886,data science,D886,Minute require morning increase open official turn memory light glass.,2
+887,internet speed,D887,Cut instead front science town matter approach admit man magazine national.,2
+888,internet speed,D888,Husband bed per paper development computer community.,2
+889,wifi connection,D889,Mouth no job act somebody growth poor every little team even.,1
+890,machine learning,D890,Economic discover store task her significant son easy section the.,0
+891,birds raised,D891,Clear knowledge threat that heavy under draw.,3
+892,birds raised,D892,Control often political money rate wish not accept game soldier.,2
+893,artificial intelligence,D893,Never paper responsibility share tonight mother keep cause case shake.,2
+894,birds raised,D894,School industry tree respond company per two today.,2
+895,birds raised,D895,Leader person magazine human consumer focus heavy act phone nation total generation size team third.,1
+896,cloud computing,D896,Various evidence ahead provide middle manager several.,1
+897,data science,D897,Too stand according fill space ok again campaign my hope human traditional film explain.,0
+898,birds raised,D898,Become participant both air west could wonder in such we total maintain.,3
+899,mobile signal,D899,Free left paper city drop nearly financial nature everyone born thousand against.,3
+900,cloud computing,D900,Though student consider I machine behind administration stage material area beautiful goal protect.,2
+901,wifi connection,D901,Alone past church night important often challenge project recognize section action attention.,0
+902,data science,D902,Economy top see go our black control scientist hard suddenly east author eat between century.,0
+903,internet speed,D903,Degree prevent including realize order expect treatment anything see care personal easy use accept.,1
+904,birds raised,D904,Deep maybe want anything hospital necessary major south member item.,0
+905,mobile signal,D905,Town question discover tax agree black stuff foot ever suggest care they million executive story.,3
+906,artificial intelligence,D906,Billion great set treat least give management glass generation build.,2
+907,wifi connection,D907,Young anyone long think eat affect image even mean health.,3
+908,artificial intelligence,D908,Camera sing those everyone forget west reflect young both Republican go room trouble.,2
+909,artificial intelligence,D909,Report street reduce land guess language program than all although still maybe might you soldier create.,0
+910,birds raised,D910,Total hit south campaign character war along join commercial apply cup item road.,0
+911,cloud computing,D911,Step same social direction morning determine people.,2
+912,internet speed,D912,List return energy cell indeed choose scientist lay.,2
+913,machine learning,D913,Same forward human send throw house particularly affect put quickly magazine main check exactly understand Mrs.,0
+914,mobile signal,D914,Great actually boy same doctor thing benefit interesting off trouble consider tough country strategy mind city.,2
+915,wifi connection,D915,Trade whose court newspaper free identify teacher try letter fight.,3
+916,cell tower,D916,Hand wrong toward whatever success win education news stand officer.,0
+917,cell tower,D917,Pick theory two mention party know religious economy economy city protect power night.,0
+918,internet speed,D918,Little hotel think light any on case drive recent leader series.,2
+919,network coverage,D919,Soon offer night through serious admit ready financial on bed magazine baby.,3
+920,machine learning,D920,Police form thank week measure low few beautiful decision point strong thus sport agreement.,0
+921,machine learning,D921,Standard reveal central win add low live thousand machine.,1
+922,data science,D922,Popular official exactly candidate piece computer always two letter.,3
+923,artificial intelligence,D923,Interesting commercial by condition front fill although board smile now kid knowledge kid expect.,0
+924,machine learning,D924,Fine manager sure surface trial south ago rock sometimes rule win.,0
+925,cloud computing,D925,Exist town member action total join design century court attention.,0
+926,birds raised,D926,Officer south very common well choose game democratic dream want painting environment hear.,3
+927,data science,D927,Tax right miss begin career authority person job language.,1
+928,birds raised,D928,Worker money doctor those responsibility new place media lawyer.,0
+929,mobile signal,D929,How increase soldier account friend side power grow wife sure bit capital.,0
+930,wifi connection,D930,Family way second amount indicate hundred evidence.,3
+931,artificial intelligence,D931,Next heart exist election wind present event two skill on surface machine system tonight.,2
+932,machine learning,D932,General old reason form today report organization guy simple teach minute look trade outside trouble white.,0
+933,birds raised,D933,Car big professional write their onto dream specific around.,1
+934,wifi connection,D934,Keep cost attorney such look recent child sell voice bed air purpose its create country.,0
+935,cell tower,D935,Despite area training spend letter statement skin air.,3
+936,wifi connection,D936,Arrive just design start economic population federal task exist forward interview.,2
+937,cell tower,D937,During organization between event treat partner close I medical visit one.,0
+938,cloud computing,D938,Wear available father century doctor late camera on.,1
+939,network coverage,D939,Control entire thank rather style hear world particular.,0
+940,cell tower,D940,Leave week visit none identify chance act statement recently raise activity effect full late interest.,2
+941,machine learning,D941,Structure radio police training crime major can.,3
+942,cell tower,D942,Number enter friend wide mouth president cause later smile study expert.,0
+943,cell tower,D943,Tree job high democratic sense street born view article field town resource.,1
+944,machine learning,D944,Suffer argue song model professor including show most sort.,2
+945,wifi connection,D945,Mission put scientist community east truth think Congress yes become partner seem program improve apply trade.,2
+946,mobile signal,D946,Responsibility shake score base wall eye beyond.,1
+947,mobile signal,D947,Affect shoulder couple race ability involve expert tree back hand arm its.,2
+948,cell tower,D948,Respond attack feel such hot every open alone result firm law nothing effect blue.,2
+949,artificial intelligence,D949,Scientist provide now prevent address rate future shoulder far mean ago in especially responsibility.,3
+950,birds raised,D950,Under space stage return capital about office child truth same fund staff parent.,3
+951,machine learning,D951,System thus throughout surface picture company cause study draw model expert expert choose.,3
+952,mobile signal,D952,Though set American pull carry management the join radio.,0
+953,internet speed,D953,Discuss figure dinner eat affect anyone lawyer while close her scene cause.,0
+954,artificial intelligence,D954,Environment medical charge than six most crime change within.,1
+955,artificial intelligence,D955,Dinner perform commercial factor benefit charge put unit term six power available traditional again financial common.,3
+956,mobile signal,D956,Task marriage standard half meeting guy green.,3
+957,birds raised,D957,Participant paper product oil whole ago join fight very purpose national.,3
+958,internet speed,D958,Throughout marriage style avoid join travel project.,0
+959,cloud computing,D959,Shake single receive wait prepare Republican reflect point especially.,3
+960,machine learning,D960,Cultural certainly weight space position everything see cell believe feel to system recognize according party.,2
+961,data science,D961,Accept indicate environmental become sound turn per some show.,2
+962,mobile signal,D962,Three experience discussion step treatment structure their whether answer evening serve work.,2
+963,data science,D963,Attack send forget college major great figure over group throughout protect team draw until check TV.,3
+964,cell tower,D964,Suffer guy political stuff several effort push open ever our author effort condition election pattern.,3
+965,wifi connection,D965,Believe yet professor ask blood affect do behavior seek continue wonder.,3
+966,internet speed,D966,Early pattern station sport out two onto debate take ever own every.,0
+967,birds raised,D967,Level specific reach defense phone record surface behavior bar.,2
+968,cell tower,D968,Feeling real enter author air fall serious force raise company affect current direction up charge.,2
+969,network coverage,D969,Speech strategy agency sister around glass expert include ten test citizen mouth.,0
+970,internet speed,D970,Church meeting mother lose democratic surface certain you national whole.,2
+971,data science,D971,Sing full lose best usually glass environment condition official improve fall statement production television.,2
+972,data science,D972,Letter our oil street sound go us school.,1
+973,cell tower,D973,Them recent art world space difficult order at degree.,1
+974,network coverage,D974,Professional game area party still focus place character series explain turn image fire.,2
+975,network coverage,D975,Recognize investment around medical anyone play several them admit word kind threat pressure team rule.,1
+976,artificial intelligence,D976,Team result why throughout reflect right television voice.,1
+977,mobile signal,D977,Agency must research scene cultural fill answer effort left whole.,2
+978,cell tower,D978,Teach ball memory sometimes prevent phone accept provide light management mention.,2
+979,wifi connection,D979,Fall we help game away amount example thing magazine.,2
+980,artificial intelligence,D980,Year yard work position general general feel.,2
+981,cloud computing,D981,Benefit foreign above tell charge yard question easy article newspaper himself agency party.,1
+982,cell tower,D982,Important media care become listen possible statement.,3
+983,internet speed,D983,Same foreign wrong tree one make feel check activity future difference research source.,1
+984,data science,D984,Treatment network thus spring low just term similar focus.,2
+985,mobile signal,D985,Recognize for word ahead someone so letter she.,1
+986,wifi connection,D986,Of sister through area bed treat away.,3
+987,artificial intelligence,D987,Discussion manage price enter how coach single minute front expert off send.,3
+988,wifi connection,D988,Recognize environmental floor trade marriage follow bar bag government act product mission.,2
+989,birds raised,D989,Approach voice inside just lot something remain method let race watch career.,2
+990,mobile signal,D990,Reality safe get reveal culture break although situation fast item structure box.,3
+991,data science,D991,Scene shoulder first leave edge mean many human region themselves weight.,2
+992,wifi connection,D992,Board few prove better director then save heart provide over quality western likely.,3
+993,mobile signal,D993,Available everyone animal spring key kind soldier administration from heart read it the thank.,0
+994,data science,D994,Believe resource early high effort remain particularly learn only go situation force number window sometimes.,1
+995,wifi connection,D995,Artist throughout she staff theory authority actually industry which gun mouth defense month.,2
+996,machine learning,D996,Close part south everything fish more interview yes establish.,1
+997,cell tower,D997,Method by evening one nearly yard system training agency summer long.,3
+998,wifi connection,D998,Affect political research affect space wrong unit rock partner check piece she create door.,0
+999,cell tower,D999,Quite than should low maintain forward pick theory huge with prevent.,3
