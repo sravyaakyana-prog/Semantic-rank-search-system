@@ -1,0 +1,27 @@
+FROM python:3.11
+
+WORKDIR /app
+
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    curl \
+    git \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY requirements.txt .
+
+RUN pip install --upgrade pip
+
+# install ML core first (prevents freeze)
+RUN pip install --no-cache-dir numpy scipy scikit-learn
+
+RUN pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+# install rest with no build isolation
+RUN pip install --no-cache-dir --no-build-isolation -r requirements.txt
+
+COPY . .
+
+EXPOSE 8000
+
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]

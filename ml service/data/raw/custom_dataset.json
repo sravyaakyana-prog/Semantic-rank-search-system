@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Semantic Search Explained",
+    "text": "Semantic search improves retrieval by understanding meaning using embeddings instead of keywords."
+  },
+  {
+    "title": "What is BM25",
+    "text": "BM25 is a ranking algorithm used in information retrieval systems to score document relevance."
+  },
+  {
+    "title": "Hybrid Search",
+    "text": "Hybrid search combines BM25 keyword search with vector embeddings for better ranking accuracy."
+  },
+  {
+    "title": "Sentence Transformers",
+    "text": "Sentence Transformers convert text into dense vector embeddings for semantic similarity search."
+  },
+  {
+    "title": "Vector Databases",
+    "text": "Vector databases store embeddings and allow fast similarity search over high-dimensional data."
+  }
+]

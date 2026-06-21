@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+
+sentence-transformers
+transformers
+
+faiss-cpu
+
+numpy
+scipy
+scikit-learn
+
+rank-bm25
+
+pandas
+
+python-multipart
