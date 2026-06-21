@@ -1,23 +1,22 @@
-# Node
-node_modules/
-dist/
-
 # Python
 __pycache__/
 *.pyc
-*.pyo
 
-# Environment
-.env
+# Virtual environment
+venv/
+ml service/venv/
 
-# ML artifacts
-*.pkl
-*.npy
-*.index
-
-# Embeddings
-ml service/data/embeddings/
+# Dataset folders (IMPORTANT)
+ml service/data/
 ml service/indexes/
+data/
 
-# Logs
-*.log
+# ZIP files
+*.zip
+project.zip
+
+# Node
+node_modules/
+
+# Environment variables
+.env
