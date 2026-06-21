@@ -1,3 +1,4 @@
+beir
 fastapi
 uvicorn[standard]
 
