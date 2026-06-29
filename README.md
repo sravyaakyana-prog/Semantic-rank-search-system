@@ -1,44 +1,28 @@
 # 🚀 SemanticRank AI — Intelligent Semantic Search System
 
-SemanticRank AI is a full-stack AI-powered semantic search engine that combines **Sentence-BERT embeddings**, **FAISS vector search**, **BM25 retrieval**, **Hybrid Ranking**, and **Evidence-based Answer Extraction** to retrieve highly relevant documents from natural language queries.
+> 🚀 A production-ready AI-powered semantic search engine built with **React, Node.js, FastAPI, Sentence-BERT, FAISS, BM25, MongoDB, Docker, Render, and Vercel**.
 
-The project demonstrates modern **Information Retrieval (IR)**, **Machine Learning**, and **Full-Stack Web Development** with a production-ready cloud deployment.
+SemanticRank AI is a full-stack AI-powered semantic search engine that retrieves relevant documents based on the **meaning** of a user's query rather than exact keyword matching. It combines **Sentence-BERT embeddings**, **FAISS vector search**, **BM25 retrieval**, **Hybrid Ranking**, and **Answer Extraction** to deliver accurate and meaningful search results.
 
 ---
 
 # 🌐 Live Demo
 
-## 🖥️ Frontend (Vercel)
+### 🖥️ Frontend (Vercel)
 
 https://semantic-rank-search-system.vercel.app
 
----
-
-## ⚙️ Backend API (Render)
-
-**API**
+### ⚙️ Backend API (Render)
 
 https://semantic-rank-search-system-backend.onrender.com
 
-**Health Check**
-
-https://semantic-rank-search-system-backend.onrender.com
-
-**Evaluation API**
-
-https://semantic-rank-search-system-backend.onrender.com/api/evaluate
-
----
-
-## 🧠 ML Service (Render)
+### 🧠 ML Service (Render)
 
 https://semantic-rank-search-system-m.onrender.com
 
----
+### 📊 Evaluation API
 
-# 📂 GitHub Repository
-
-https://github.com/sravyaakyana-prog/Semantic-rank-search-system
+https://semantic-rank-search-system-backend.onrender.com/api/evaluate
 
 ---
 
@@ -49,51 +33,50 @@ https://github.com/sravyaakyana-prog/Semantic-rank-search-system
 * ⚡ FAISS Vector Similarity Search
 * 📚 BM25 Keyword Retrieval
 * 🤝 Hybrid Ranking
-* 🎯 Cross-Encoder Re-ranking (with automatic fallback)
-* 📄 Evidence-based Answer Extraction
+* 🎯 Cross-Encoder Re-ranking (Render-compatible fallback)
+* 📄 AI Answer Extraction
 * 📈 Query Expansion
 * 📊 Retrieval Evaluation Dashboard
 * 🔐 JWT Authentication
 * 👤 User Registration & Login
-* 📝 Search History using MongoDB Atlas
-* ☁️ Cloud Deployment (Vercel + Render)
+* 📝 Search History (MongoDB Atlas)
 * 🐳 Dockerized ML Service
-* 🎨 Modern SaaS-inspired UI
-* 📱 Fully Responsive Design
+* ☁️ Cloud Deployment (Vercel + Render)
+* 🎨 Modern Responsive UI
 
 ---
 
 # 🏗️ System Architecture
 
 ```text
-                    React + Vite (Frontend)
-                              │
-                              ▼
-                    Node.js + Express API
-                              │
-             ┌────────────────┴─────────────────┐
-             ▼                                  ▼
-      MongoDB Atlas                     FastAPI ML Service
-                                                │
-           ┌────────────────────────────────────┐
-           ▼                                    ▼
-   Sentence-BERT                         BM25 Retrieval
-           │                                    │
-           └──────────── Hybrid Ranking ────────┘
-                          │
-                          ▼
-                Cross-Encoder Re-ranking
-                          │
-                          ▼
-                Evidence-based Answer
-                          │
-                          ▼
-                     Search Results
+                     React + Vite
+                           │
+                           ▼
+                  Node.js + Express
+                           │
+        ┌──────────────────┴──────────────────┐
+        ▼                                     ▼
+  MongoDB Atlas                      FastAPI ML Service
+                                             │
+        ┌────────────────────────────────────┐
+        ▼                                    ▼
+ Sentence-BERT                        BM25 Retrieval
+        │                                    │
+        └────────── Hybrid Ranking ───────────┘
+                       │
+                       ▼
+             Cross-Encoder Re-ranking
+                       │
+                       ▼
+               Answer Extraction
+                       │
+                       ▼
+                 Search Results
 ```
 
 ---
 
-# ⚙️ Tech Stack
+# 🛠️ Tech Stack
 
 ## Frontend
 
@@ -103,8 +86,6 @@ https://github.com/sravyaakyana-prog/Semantic-rank-search-system
 * Axios
 * React Router DOM
 
----
-
 ## Backend
 
 * Node.js
@@ -112,8 +93,6 @@ https://github.com/sravyaakyana-prog/Semantic-rank-search-system
 * JWT Authentication
 * MongoDB Atlas
 * Mongoose
-
----
 
 ## Machine Learning
 
@@ -126,13 +105,11 @@ https://github.com/sravyaakyana-prog/Semantic-rank-search-system
 * Scikit-Learn
 * NLTK
 
----
-
 ## Deployment
 
-* Vercel
-* Render
 * Docker
+* Render
+* Vercel
 * MongoDB Atlas
 
 ---
@@ -158,7 +135,7 @@ SemanticRank-Search-System
 
 ---
 
-# 🧠 Semantic Search Pipeline
+# 🧠 Search Pipeline
 
 ```text
 User Query
@@ -182,10 +159,10 @@ Hybrid Ranking
 Cross-Encoder Re-ranking
       │
       ▼
-Evidence-based Answer Extraction
+Answer Extraction
       │
       ▼
-Top Ranked Results
+Final Ranked Results
 ```
 
 ---
@@ -210,7 +187,7 @@ Top Ranked Results
 
 ## 🔐 Login
 
-Secure JWT-based user authentication.
+Secure JWT authentication.
 
 ![Login](Screenshots/Login.png)
 
@@ -218,7 +195,7 @@ Secure JWT-based user authentication.
 
 ## 📝 User Registration
 
-Create a new account with MongoDB-backed authentication.
+User registration backed by MongoDB Atlas.
 
 ![Signup](Screenshots/Signup.png)
 
@@ -226,7 +203,7 @@ Create a new account with MongoDB-backed authentication.
 
 ## 🏠 Home Page
 
-Modern semantic search interface with recent searches and responsive design.
+Modern semantic search interface.
 
 ![Home](Screenshots/home.png)
 
@@ -234,7 +211,7 @@ Modern semantic search interface with recent searches and responsive design.
 
 ## 🔍 Semantic Search Results
 
-Displays the AI-generated answer, expanded query, latency, confidence score, and search statistics.
+AI-generated answer with confidence score, latency, expanded query, and retrieval statistics.
 
 ![Search Results](Screenshots/Search_results.png)
 
@@ -242,48 +219,21 @@ Displays the AI-generated answer, expanded query, latency, confidence score, and
 
 ## 📚 Ranked Evidence
 
-Top-ranked evidence retrieved using Semantic Search, BM25, Hybrid Ranking, and Cross-Encoder Re-ranking.
+Top-ranked documents retrieved using semantic search, BM25, and hybrid ranking.
 
 ![Ranked Evidence](Screenshots/ranked_evidence.png)
 
 ---
 
-## 📊 Retrieval Evaluation Dashboard
+## 📊 Analytics Dashboard
 
-Performance comparison of BM25, Semantic Search, Hybrid Search, and Re-ranking.
+Evaluation metrics for retrieval performance.
 
 ![Analytics](Screenshots/analytics.png)
 
 ---
 
-# 📈 Evaluation API
-
-**Endpoint**
-
-```
-GET /api/evaluate
-```
-
-Example Response
-
-```json
-{
-  "BM25_NDCG@10": 0.612,
-  "Semantic_NDCG@10": 0.744,
-  "Hybrid_NDCG@10": 0.821,
-  "Reranker_NDCG@10": 0.867,
-  "Improvement_over_BM25_%": 34.15,
-  "Precision@10": 0.78,
-  "Recall@10": 0.71,
-  "MRR": 0.84,
-  "MAP": 0.79,
-  "queries_evaluated": 100
-}
-```
-
----
-
-# 🚀 Running Locally
+# 🚀 Run Locally
 
 ## Clone Repository
 
@@ -293,9 +243,7 @@ git clone https://github.com/sravyaakyana-prog/Semantic-rank-search-system.git
 cd Semantic-rank-search-system
 ```
 
----
-
-## Frontend
+### Frontend
 
 ```bash
 cd frontend
@@ -305,15 +253,7 @@ npm install
 npm run dev
 ```
 
-Runs at:
-
-```
-http://localhost:5173
-```
-
----
-
-## Backend
+### Backend
 
 ```bash
 cd backend
@@ -323,15 +263,7 @@ npm install
 npm run dev
 ```
 
-Runs at:
-
-```
-http://localhost:5000
-```
-
----
-
-## ML Service
+### ML Service
 
 ```bash
 cd "ml service"
@@ -339,12 +271,6 @@ cd "ml service"
 pip install -r requirements.txt
 
 python main.py
-```
-
-Runs at:
-
-```
-http://localhost:8000
 ```
 
 ---
@@ -356,8 +282,6 @@ http://localhost:8000
 ```env
 VITE_API_URL=https://semantic-rank-search-system-backend.onrender.com
 ```
-
----
 
 ## Backend (.env)
 
@@ -373,9 +297,21 @@ ML_SERVICE=https://semantic-rank-search-system-m.onrender.com
 
 ---
 
-## ML Service
+# 🐳 Docker
 
-No additional environment variables are required.
+Build the ML service image:
+
+```bash
+cd "ml service"
+
+docker build -t semanticrank-ml .
+```
+
+Run the container:
+
+```bash
+docker run -p 8000:8000 semanticrank-ml
+```
 
 ---
 
@@ -393,12 +329,11 @@ No additional environment variables are required.
 # 🎯 Future Improvements
 
 * Learning-to-Rank (LTR)
-* Personalized Search
 * Voice Search
 * PDF Semantic Search
 * Multi-language Semantic Retrieval
+* Personalized Ranking
 * Vector Database Integration (Milvus / Pinecone)
-* Streaming AI Responses
 
 ---
 
@@ -406,16 +341,13 @@ No additional environment variables are required.
 
 **Sravya Akyana**
 
-**GitHub:** https://github.com/sravyaakyana-prog
-
+GitHub: https://github.com/sravyaakyana-prog
 
 ---
 
 # ⭐ Support
 
 If you found this project useful, please consider giving it a ⭐ on GitHub.
-
-It helps others discover the project and supports future development.
 
 ---
 
