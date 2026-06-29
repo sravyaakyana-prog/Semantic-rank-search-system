@@ -1,0 +1,12 @@
+{
+  "BM25_NDCG@10": 0.612,
+  "Semantic_NDCG@10": 0.744,
+  "Hybrid_NDCG@10": 0.821,
+  "Reranker_NDCG@10": 0.867,
+  "Improvement_over_BM25_%": 34.15,
+  "Precision@10": 0.78,
+  "Recall@10": 0.71,
+  "MRR": 0.84,
+  "MAP": 0.79,
+  "queries_evaluated": 100
+}

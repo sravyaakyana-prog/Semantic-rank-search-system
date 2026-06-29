@@ -31,17 +31,17 @@ export default function Dashboard() {
         data.map((item) => item.query)
       );
     } catch (err) {
-      console.error(err);
+      console.error("History Load Error:", err);
     }
   };
 
   const search = async () => {
     if (!query.trim()) return;
 
-    try {
-      setLoading(true);
-      setData(null);
+    setLoading(true);
+    setData(null);
 
+    try {
       setLoadingText("Analyzing Query...");
 
       setTimeout(
@@ -68,24 +68,24 @@ export default function Dashboard() {
 
       setData(res.data);
 
-      // Save search to MongoDB
-      await saveHistory(query);
-
-      // Reload latest history
-      await loadHistory();
+      try {
+        await saveHistory(query);
+        await loadHistory();
+      } catch (historyErr) {
+        console.error("History Save Error:", historyErr);
+      }
 
     } catch (err) {
-      console.error(err);
-      alert("Search failed");
+      console.error("Search Error:", err);
+      alert("Search failed. Please try again.");
+    } finally {
+      setLoading(false);
     }
-
-    setLoading(false);
   };
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-950 via-slate-900 to-black text-white relative overflow-hidden">
-      
-      {/* Background Glow */}
+
       <div className="absolute inset-0 bg-cyan-500/5 blur-3xl opacity-30 pointer-events-none" />
 
       <div className="max-w-6xl mx-auto px-4 sm:px-6 py-8 sm:py-12 relative">
@@ -103,7 +103,6 @@ export default function Dashboard() {
             loading={loading}
           />
 
-          {/* Search History */}
           {history.length > 0 && (
             <div>
               <h3 className="text-slate-400 mb-3 text-sm">
@@ -124,14 +123,12 @@ export default function Dashboard() {
             </div>
           )}
 
-          {/* Loading */}
           {loading && (
             <LoadingState
               loadingText={loadingText}
             />
           )}
 
-          {/* Results */}
           {data && (
             <ResultsLayout
               data={data}

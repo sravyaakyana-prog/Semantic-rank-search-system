@@ -36,17 +36,9 @@ app.use(express.json());
    Routes
 ========================= */
 
-// Auth
 app.use("/api/auth", authRoutes);
-
-// Search History
 app.use("/api/history", searchHistoryRoutes);
-
-// Semantic Search Route
-app.use(
-  "/api/semantic-search",
-  semanticSearchRoutes
-);
+app.use("/api/semantic-search", semanticSearchRoutes);
 
 /* =========================
    Health Check
@@ -59,7 +51,7 @@ app.get("/", (req, res) => {
 });
 
 /* =========================
-   Legacy Search Endpoint
+   ML Search Endpoint
 ========================= */
 
 app.post("/api/search", async (req, res) => {
@@ -68,15 +60,44 @@ app.post("/api/search", async (req, res) => {
       `${process.env.ML_SERVICE}/search`,
       {
         query: req.body.query,
+        top_k: req.body.top_k || 10,
+      },
+      {
+        timeout: 120000,
       }
     );
 
     res.json(response.data);
   } catch (error) {
-    console.error(error);
+    console.error("Search Error:", error.message);
 
     res.status(500).json({
       error: "Search failed",
+      details: error.message,
+    });
+  }
+});
+
+/* =========================
+   ML Evaluation Endpoint
+========================= */
+
+app.get("/api/evaluate", async (req, res) => {
+  try {
+    const response = await axios.get(
+      `${process.env.ML_SERVICE}/evaluate`,
+      {
+        timeout: 300000,
+      }
+    );
+
+    res.json(response.data);
+  } catch (error) {
+    console.error("Evaluation Error:", error.message);
+
+    res.status(500).json({
+      error: "Evaluation failed",
+      details: error.message,
     });
   }
 });
@@ -88,7 +109,5 @@ app.post("/api/search", async (req, res) => {
 const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => {
-  console.log(
-    `🚀 Server running on port ${PORT}`
-  );
+  console.log(`🚀 Server running on port ${PORT}`);
 });

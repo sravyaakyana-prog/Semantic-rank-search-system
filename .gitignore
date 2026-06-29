@@ -1,22 +1,22 @@
-# Python
-__pycache__/
-*.pyc
-
-# Virtual environment
-venv/
-ml service/venv/
-
-# Dataset folders (IMPORTANT)
-ml service/data/
-ml service/indexes/
-data/
-
-# ZIP files
-*.zip
-project.zip
-
 # Node
-node_modules/
+**/node_modules/
 
-# Environment variables
+# Python
+**/__pycache__/
+*.pyc
+venv/
+
+# Environment
 .env
+
+# FAISS
+ml service/indexes/
+
+# Dataset zip
+ml service/data/*.zip
+
+# Logs
+*.log
+
+# Zip
+*.zip

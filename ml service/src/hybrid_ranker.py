@@ -15,16 +15,25 @@ def minmax_normalize(scores):
     )
 
 
+def get_alpha(query):
+
+    words = len(query.split())
+
+    if words <= 2:
+        return 0.40
+
+    elif words <= 5:
+        return 0.60
+
+    else:
+        return 0.80
+
+
 def hybrid_rank(
+    query,
     semantic_scores,
-    bm25_scores,
-    alpha=0.7
+    bm25_scores
 ):
-    """
-    alpha = semantic weight
-    1.0 = only semantic
-    0.0 = only BM25
-    """
 
     semantic_scores = minmax_normalize(
         semantic_scores
@@ -33,6 +42,8 @@ def hybrid_rank(
     bm25_scores = minmax_normalize(
         bm25_scores
     )
+
+    alpha = get_alpha(query)
 
     hybrid_scores = (
         alpha * semantic_scores

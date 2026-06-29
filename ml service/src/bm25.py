@@ -1,6 +1,16 @@
 from rank_bm25 import BM25Okapi
 import re
 import numpy as np
+import nltk
+
+from nltk.corpus import stopwords
+from nltk.stem import PorterStemmer
+
+# Download once
+nltk.download("stopwords")
+
+stop_words = set(stopwords.words("english"))
+stemmer = PorterStemmer()
 
 
 class BM25Model:
@@ -10,31 +20,30 @@ class BM25Model:
         self.documents = documents
 
         self.tokenized_docs = [
-            self.tokenize(doc)
+            self.preprocess(doc)
             for doc in documents
         ]
 
-        self.model = BM25Okapi(
-            self.tokenized_docs
-        )
+        self.model = BM25Okapi(self.tokenized_docs)
 
-    def tokenize(self, text):
+    def preprocess(self, text):
 
         text = str(text).lower()
 
-        return re.findall(
-            r"\w+",
-            text
-        )
+        tokens = re.findall(r"\b[a-z0-9]+\b", text)
+
+        tokens = [
+            stemmer.stem(word)
+            for word in tokens
+            if word not in stop_words
+        ]
+
+        return tokens
 
     def rank(self, query):
 
-        tokenized_query = self.tokenize(
-            query
-        )
+        query_tokens = self.preprocess(query)
 
-        scores = self.model.get_scores(
-            tokenized_query
-        )
+        scores = self.model.get_scores(query_tokens)
 
         return np.array(scores)

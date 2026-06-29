@@ -1,0 +1,14 @@
+{
+  "doc1": {
+    "text": "Semantic search uses embeddings to understand meaning instead of keywords."
+  },
+  "doc2": {
+    "text": "BM25 is a ranking function used in traditional information retrieval systems."
+  },
+  "doc3": {
+    "text": "Hybrid search combines semantic and keyword search for better retrieval quality."
+  },
+  "doc4": {
+    "text": "FAISS is used for fast similarity search over vector embeddings."
+  }
+}

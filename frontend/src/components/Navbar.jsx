@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 
 export default function Navbar() {
@@ -5,23 +6,22 @@ export default function Navbar() {
 
   return (
     <nav className="flex justify-between items-center mb-16">
-      
-      {/* Logo */}
-      <div className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent">
+      <Link
+        to="/"
+        className="text-2xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 bg-clip-text text-transparent"
+      >
         SemanticRank AI
-      </div>
+      </Link>
 
-      {/* Right Side */}
       <div className="flex items-center gap-6">
-
         <div className="hidden md:flex gap-8 text-slate-400">
-          <span className="hover:text-white cursor-pointer">
-            Features
-          </span>
+          <Link to="/" className="hover:text-white">
+            Search
+          </Link>
 
-          <span className="hover:text-white cursor-pointer">
+          <Link to="/evaluation" className="hover:text-white">
             Analytics
-          </span>
+          </Link>
 
           <span className="hover:text-white cursor-pointer">
             Architecture
@@ -32,10 +32,8 @@ export default function Navbar() {
           </span>
         </div>
 
-        {/* User Info */}
         {user && (
           <div className="flex items-center gap-4">
-
             <div className="text-sm text-slate-300">
               👋 {user.name}
             </div>
@@ -46,7 +44,6 @@ export default function Navbar() {
             >
               Logout
             </button>
-
           </div>
         )}
       </div>
